@@ -13,17 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: 宝宝，生日快乐！
+title: 李强xo为自己代言
 email: liqiangxo@sina.cn
 description: > # this means to ignore newlines until "baseurl:"
-  今天是你的生日，还是不小心让你生气了，不过还是希望你生日快乐，这是我的第一个静态网页，
-  自己弄出来的，以后我的很多东西将会在这里更新，不断的学习，把这个弄好看点。
-  现在我是喜悦的，我想和你分享，谢谢你的陪伴。爱你的强。
+  努力成就最好的自己
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: liqiangxo
+github_username:  liqiangxo
 
 # Build settings
 markdown: kramdown
@@ -33,3 +31,14 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+Regeneration:
+  －w
+
+Configuration:
+  --config
+
+LSL:
+  --lsi
+Detach:
+  -B
