@@ -1,0 +1,23 @@
+---
+layout : post
+title:  "status"
+data : 2017-06-13 07:52:00 +0800
+categories: liqiang update
+---
+
+最近状态：可用学习时间
+
+早上5点半起床，6点到7点学习
+
+晚上8点下班9点到10点学习时间
+
+一年目标：C语言基础扎实
+        预计年底
+英语单词量提升  预计完成时间 2019年12月  每天50个单词量     
+                    日常生活用语192  12天
+                    程序员必学电脑计算机专用1700 6个月
+                    四级单词书3927 14个月
+欢迎访问我的github[liqiangxo][liqiangxo-doc]
+
+
+[liqiangxo-doc]: https://liqiangxo.github.io/liqiangxo/
