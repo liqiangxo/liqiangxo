@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "李强xo为自己代言"
+theme = "hugo-theme-air-master"
