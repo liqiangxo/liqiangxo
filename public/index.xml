@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>李强xo为自己代言</title>
+    <title></title>
     <link>http://www.liqiangxo.one/</link>
-    <description>Recent content on 李强xo为自己代言</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>zh-CN</language>
+    <copyright>© {year}</copyright>
     
 	<atom:link href="http://www.liqiangxo.one/index.xml" rel="self" type="application/rss+xml" />
     
