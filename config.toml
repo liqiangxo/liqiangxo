@@ -57,15 +57,15 @@ theme = "codex"
   identifier = "about"
   name = "about"
   title = "About"
-  url = "/"
+  url = "https://www.liqiangxo.one/"
 
 [[menu.main]]
   identifier = "blog"
   name = "blog"
   title = "Blog"
-  url = "/blog"
+  url = "https://www.liqiangxo.one/blog"
 [[menu.main]]
   identifier = "coder"
   name = "coder"
   title = "coder"
-  url = "/coder"
+  url = "https://www.liqiangxo.one/coder"
