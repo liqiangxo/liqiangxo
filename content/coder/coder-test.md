@@ -1,6 +1,12 @@
 ---
-title: ":Coder Test"
+title: ":Coder test"
 date: 2020-06-28T16:32:22+08:00
+slug: "rich-text"
+keywords: ["腾讯", "腾讯语音sdk", "cocos2d-lua", "cocos2d","test"]
+draft: false
+tags: ["test"]
+math: false
+toc: false
 ---
 
 test

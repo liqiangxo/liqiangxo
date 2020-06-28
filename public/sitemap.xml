@@ -8,12 +8,22 @@
   </url>
   
   <url>
-    <loc>https://www.liqiangxo.one/coder/coder-test/</loc>
+    <loc>https://www.liqiangxo.one/coder/rich-text/</loc>
     <lastmod>2020-06-28T16:32:22+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.liqiangxo.one/coder/</loc>
+    <lastmod>2020-06-28T16:32:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.liqiangxo.one/tags/</loc>
+    <lastmod>2020-06-28T16:32:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.liqiangxo.one/tags/test/</loc>
     <lastmod>2020-06-28T16:32:22+08:00</lastmod>
   </url>
   
@@ -54,10 +64,6 @@
   
   <url>
     <loc>https://www.liqiangxo.one/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/tags/</loc>
   </url>
   
 </urlset>
