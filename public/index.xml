@@ -2,14 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://www.liqiangxo.one/</link>
+    <link>https://www.liqiangxo.one/</link>
     <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© {year}</copyright>
+    <lastBuildDate>Sun, 28 Jun 2020 16:32:22 +0800</lastBuildDate>
     
-	<atom:link href="http://www.liqiangxo.one/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.liqiangxo.one/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>:Coder Test</title>
+      <link>https://www.liqiangxo.one/coder/coder-test/</link>
+      <pubDate>Sun, 28 Jun 2020 16:32:22 +0800</pubDate>
+      
+      <guid>https://www.liqiangxo.one/coder/coder-test/</guid>
+      <description>test
+首先看接入流程帮助文档
+下载sdk 下载demo 更具api直接把自己需要的从demo里面拿过来 腾讯语音sdk的接入 环境:cocos2d-lua 3.13,mac10.11.6,xcode8.2.1, 步骤:
+ 在c++做lua接口 通过tolua++导入到lua（tolua方法） 再按sdk的调用顺序调用  遇到的问题 总是在成功进入语音房间以后不能成功打开扬声器，可是按照sdk的 api打开扬声器的条件都满足了，最后把打开扬声器的代码延迟了一些，就可以了</description>
+    </item>
+    
+    <item>
+      <title>:Blog Post</title>
+      <link>https://www.liqiangxo.one/about/blog-post/</link>
+      <pubDate>Sun, 28 Jun 2020 16:29:29 +0800</pubDate>
+      
+      <guid>https://www.liqiangxo.one/about/blog-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>:About Post</title>
+      <link>https://www.liqiangxo.one/about-post/</link>
+      <pubDate>Sun, 28 Jun 2020 16:27:37 +0800</pubDate>
+      
+      <guid>https://www.liqiangxo.one/about-post/</guid>
+      <description>人生很长，何必惊慌。</description>
+    </item>
+    
+    <item>
+      <title>:codex one</title>
+      <link>https://www.liqiangxo.one/blog/blog-post/</link>
+      <pubDate>Sun, 28 Jun 2020 16:04:49 +0800</pubDate>
+      
+      <guid>https://www.liqiangxo.one/blog/blog-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>第一个hugo博客</title>
+      <link>https://www.liqiangxo.one/post/newblog/</link>
+      <pubDate>Thu, 25 Jun 2020 17:28:15 +0800</pubDate>
+      
+      <guid>https://www.liqiangxo.one/post/newblog/</guid>
+      <description>hello hugo.</description>
+    </item>
     
   </channel>
 </rss>

@@ -3,15 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.liqiangxo.one/</loc>
+    <loc>https://www.liqiangxo.one/</loc>
+    <lastmod>2020-06-28T16:32:22+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.liqiangxo.one/categories/</loc>
+    <loc>https://www.liqiangxo.one/coder/coder-test/</loc>
+    <lastmod>2020-06-28T16:32:22+08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.liqiangxo.one/tags/</loc>
+    <loc>https://www.liqiangxo.one/coder/</loc>
+    <lastmod>2020-06-28T16:32:22+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.liqiangxo.one/about/blog-post/</loc>
+    <lastmod>2020-06-28T16:29:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.liqiangxo.one/about/</loc>
+    <lastmod>2020-06-28T16:29:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.liqiangxo.one/about-post/</loc>
+    <lastmod>2020-06-28T16:27:37+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.liqiangxo.one/blog/blog-post/</loc>
+    <lastmod>2020-06-28T16:04:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.liqiangxo.one/blog/</loc>
+    <lastmod>2020-06-28T16:04:49+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.liqiangxo.one/post/</loc>
+    <lastmod>2020-06-25T17:28:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.liqiangxo.one/post/newblog/</loc>
+    <lastmod>2020-06-25T17:28:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.liqiangxo.one/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.liqiangxo.one/tags/</loc>
   </url>
   
 </urlset>
