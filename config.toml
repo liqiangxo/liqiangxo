@@ -1,4 +1,4 @@
 baseURL = "http://example.org/"
-languageCode = "en-us"
+languageCode = "zh-CN"
 title = "李强xo为自己代言"
-theme = "hugo-theme-air-master"
+theme = "codex"
