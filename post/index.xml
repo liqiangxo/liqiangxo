@@ -6,19 +6,10 @@
     <description>Recent content in Posts on 李强xo为自己代言</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 25 Jun 2020 17:28:15 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>第一个hugo博客</title>
-      <link>http://example.org/post/newblog/</link>
-      <pubDate>Thu, 25 Jun 2020 17:28:15 +0800</pubDate>
-      
-      <guid>http://example.org/post/newblog/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>sample</title>
