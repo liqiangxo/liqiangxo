@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>:Coder test</title>
+      <title>Coder test</title>
       <link>https://www.liqiangxo.one/coder/rich-text/</link>
       <pubDate>Sun, 28 Jun 2020 16:32:22 +0800</pubDate>
       
@@ -25,7 +25,7 @@
     </item>
     
     <item>
-      <title>:Blog Post</title>
+      <title>Blog Post</title>
       <link>https://www.liqiangxo.one/about/blog-post/</link>
       <pubDate>Sun, 28 Jun 2020 16:29:29 +0800</pubDate>
       
@@ -43,7 +43,7 @@
     </item>
     
     <item>
-      <title>:codex one</title>
+      <title>codex one</title>
       <link>https://www.liqiangxo.one/blog/blog-post/</link>
       <pubDate>Sun, 28 Jun 2020 16:04:49 +0800</pubDate>
       
@@ -52,12 +52,21 @@
     </item>
     
     <item>
-      <title>第一个hugo博客</title>
-      <link>https://www.liqiangxo.one/post/newblog/</link>
+      <title>文件软连接和硬链接 link</title>
+      <link>https://www.liqiangxo.one/coder/link/</link>
       <pubDate>Thu, 25 Jun 2020 17:28:15 +0800</pubDate>
       
-      <guid>https://www.liqiangxo.one/post/newblog/</guid>
-      <description>hello hugo.</description>
+      <guid>https://www.liqiangxo.one/coder/link/</guid>
+      <description>今天遇到一个问题，就是为了不影响线上玩家，把我们的gm目录分成了两个svn，线上web目录和gmweb目录。 但是存在一个问题，就是线上和后台可能遇到修改和获取一个文件。
+比如运营修改了gmweb目录的文件 玩家需要获取这个文件但是只能获取到线上web目录的文件
+那么这个时候就可以用到硬链接了。
+用到就学到
+什么是link文件？
+如何操作？
+你可能遇到的问题
+问题1 mklink 拒绝访问
+问题2 查问题的时候看到js右键特效就想自己用，于是浪费了一堆时间 去玩js
+&amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt; /* 鼠标特效 */ var a_idx = 0; jQuery(document).ready(function($) { $(&amp;quot;body&amp;quot;).click(function(e) { var a = new Array(&amp;quot;❤富强❤&amp;quot;,&amp;quot;❤民主❤&amp;quot;,&amp;quot;❤文明❤&amp;quot;,&amp;quot;❤和谐❤&amp;quot;,&amp;quot;❤自由❤&amp;quot;,&amp;quot;❤平等❤&amp;quot;,&amp;quot;❤公正❤&amp;quot;,&amp;quot;❤法治❤&amp;quot;,&amp;quot;❤爱国❤&amp;quot;,&amp;quot;❤敬业❤&amp;quot;,&amp;quot;❤诚信❤&amp;quot;,&amp;quot;❤友善❤&amp;quot;); var $i = $(&amp;quot;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;quot;).text(a[a_idx]); a_idx = (a_idx + 1) % a.length; var x = e.pageX, y = e.pageY; $i.css({ &amp;quot;z-index&amp;quot;: 999999999999999999999999999999999999999999999999999999999999999999999, &amp;quot;top&amp;quot;: y - 20, &amp;quot;left&amp;quot;: x, &amp;quot;position&amp;quot;: &amp;quot;absolute&amp;quot;, &amp;quot;font-weight&amp;quot;: &amp;quot;bold&amp;quot;, &amp;quot;color&amp;quot;: &amp;quot;rgb(&amp;quot;+~~(255*Math.random())+&amp;quot;,&amp;quot;+~~(255*Math.random())+&amp;quot;,&amp;quot;+~~(255*Math.random())+&amp;quot;)&amp;quot; }); $(&amp;quot;body&amp;quot;).append($i); $i.animate({ &amp;quot;top&amp;quot;: y - 180, &amp;quot;opacity&amp;quot;: 0 }, 1500, function() { $i.</description>
     </item>
     
   </channel>
