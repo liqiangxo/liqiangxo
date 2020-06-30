@@ -1,5 +1,6 @@
 # Override these settings with your own
 languageCode = "zh-CN"
+defaultContentLanguage = "zh-cn"
 baseURL = "https://www.liqiangxo.one/"
 copyright = "© {year}"
 
@@ -14,10 +15,21 @@ theme = "codex"
 # themesDir = "./" 
 
 # Add your Disqus shortname here.
-# disqusShortname = "123"
-
+[params.valine]
+    enable = true
+    appId = '1fVnzL30puihhMql5HS0pwm4-gzGzoHsz'
+    appKey = 'kYMC0bQQ0EXTJUJuFMDh2jF7'
+    notify = false 
+    verify = false 
+    avatar = 'mm'
+    placeholder = '说点什么吧...'
+    visitor = true
+paginate = 10
 # Add your Google Analytics identifier: UA-XXXXXXXX-X
 # googleAnalytics = "456" 
+
+canonifyurls = true
+publishDir = "./liqiangxo"
 
 # Optional params
 [params]

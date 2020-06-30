@@ -1,7 +1,6 @@
 ---
 heading: "Hi, I'm liqiang"
-subheading: "coder."
+subheading: "人生很长，何必惊慌。"
 handle: "liqiangxo"
 ---
 
-人生很长，何必惊慌。
