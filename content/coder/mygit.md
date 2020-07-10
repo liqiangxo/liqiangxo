@@ -16,7 +16,9 @@ draft: false
       github.com
   在hosts文件末尾添加两行(对应上面查到的ip)
       199.232.5.194  github.global-ssl.fastly.net
+      199.232.69.194
       140.82.114.4  github.com
+      140.82.113.3
 
     我靠改了之后简直神速啊
 3.Windows host
