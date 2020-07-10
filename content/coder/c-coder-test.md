@@ -1,15 +1,13 @@
 ---
-title: "腾讯语音sdk cocos2d接入"
+title: "Coder test"
 date: 2020-06-28T16:32:22+08:00
-slug: "cocos2d-radio"
-keywords: ["腾讯", "腾讯语音sdk", "cocos2d-lua", "cocos2d"]
+slug: "rich-text"
+keywords: ["腾讯", "腾讯语音sdk", "cocos2d-lua", "cocos2d","test"]
 draft: false
-tags: ["sdk","cocos2d"]
+tags: ["sdk"]
 math: false
 toc: false
 ---
-
-test
 
 首先看接入流程帮助文档
 

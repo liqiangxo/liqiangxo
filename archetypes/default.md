@@ -1,12 +1,11 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
-draft: true
-menu : "main"
-Categories : ["main", "js"]
+slug: ""
+description: ""
+keywords: []
 tags: []
-keywords : [""]
-more : false
-toc : false
+math: false
+toc: false
 ---
 
