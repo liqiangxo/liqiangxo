@@ -26,19 +26,28 @@
     
     <item>
       <title>Blog Post</title>
-      <link>https://www.liqiangxo.one/about/blog-post/</link>
+      <link>https://www.liqiangxo.one/about/b-blog-post/</link>
       <pubDate>Sun, 28 Jun 2020 16:29:29 +0800</pubDate>
       
-      <guid>https://www.liqiangxo.one/about/blog-post/</guid>
+      <guid>https://www.liqiangxo.one/about/b-blog-post/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>:About Post</title>
+      <link>https://www.liqiangxo.one/a-about-post/</link>
+      <pubDate>Sun, 28 Jun 2020 16:27:37 +0800</pubDate>
+      
+      <guid>https://www.liqiangxo.one/a-about-post/</guid>
+      <description>人生很长，何必惊慌。</description>
+    </item>
+    
+    <item>
       <title>codex one</title>
-      <link>https://www.liqiangxo.one/blog/blog-post/</link>
+      <link>https://www.liqiangxo.one/blog/b-blog-post/</link>
       <pubDate>Sun, 28 Jun 2020 16:04:49 +0800</pubDate>
       
-      <guid>https://www.liqiangxo.one/blog/blog-post/</guid>
+      <guid>https://www.liqiangxo.one/blog/b-blog-post/</guid>
       <description></description>
     </item>
     
@@ -58,6 +67,15 @@
 问题1 mklink 拒绝访问
 问题2 查问题的时候看到js右键特效就想自己用，于是浪费了一堆时间 去玩js
 &amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt; /* 鼠标特效 */ var a_idx = 0; jQuery(document).ready(function($) { $(&amp;quot;body&amp;quot;).click(function(e) { var a = new Array(&amp;quot;❤富强❤&amp;quot;,&amp;quot;❤民主❤&amp;quot;,&amp;quot;❤文明❤&amp;quot;,&amp;quot;❤和谐❤&amp;quot;,&amp;quot;❤自由❤&amp;quot;,&amp;quot;❤平等❤&amp;quot;,&amp;quot;❤公正❤&amp;quot;,&amp;quot;❤法治❤&amp;quot;,&amp;quot;❤爱国❤&amp;quot;,&amp;quot;❤敬业❤&amp;quot;,&amp;quot;❤诚信❤&amp;quot;,&amp;quot;❤友善❤&amp;quot;); var $i = $(&amp;quot;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;quot;).text(a[a_idx]); a_idx = (a_idx + 1) % a.length; var x = e.pageX, y = e.pageY; $i.css({ &amp;quot;z-index&amp;quot;: 999999999999999999999999999999999999999999999999999999999999999999999, &amp;quot;top&amp;quot;: y - 20, &amp;quot;left&amp;quot;: x, &amp;quot;position&amp;quot;: &amp;quot;absolute&amp;quot;, &amp;quot;font-weight&amp;quot;: &amp;quot;bold&amp;quot;, &amp;quot;color&amp;quot;: &amp;quot;rgb(&amp;quot;+~~(255*Math.random())+&amp;quot;,&amp;quot;+~~(255*Math.random())+&amp;quot;,&amp;quot;+~~(255*Math.random())+&amp;quot;)&amp;quot; }); $(&amp;quot;body&amp;quot;).append($i); $i.animate({ &amp;quot;top&amp;quot;: y - 180, &amp;quot;opacity&amp;quot;: 0 }, 1500, function() { $i.</description>
+    </item>
+    
+    <item>
+      <title>第一个hugo博客</title>
+      <link>https://www.liqiangxo.one/post/n-newblog/</link>
+      <pubDate>Thu, 25 Jun 2020 17:28:15 +0800</pubDate>
+      
+      <guid>https://www.liqiangxo.one/post/n-newblog/</guid>
+      <description>hello hugo.</description>
     </item>
     
   </channel>

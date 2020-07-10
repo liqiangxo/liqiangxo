@@ -33,8 +33,13 @@
   </url>
   
   <url>
-    <loc>https://www.liqiangxo.one/about/blog-post/</loc>
+    <loc>https://www.liqiangxo.one/about/b-blog-post/</loc>
     <lastmod>2020-06-28T16:29:29+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.liqiangxo.one/a-about-post/</loc>
+    <lastmod>2020-06-28T16:27:37+08:00</lastmod>
   </url>
   
   <url>
@@ -43,7 +48,7 @@
   </url>
   
   <url>
-    <loc>https://www.liqiangxo.one/blog/blog-post/</loc>
+    <loc>https://www.liqiangxo.one/blog/b-blog-post/</loc>
     <lastmod>2020-06-28T16:04:49+08:00</lastmod>
   </url>
   
@@ -53,7 +58,17 @@
   </url>
   
   <url>
+    <loc>https://www.liqiangxo.one/post/</loc>
+    <lastmod>2020-06-25T17:28:15+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.liqiangxo.one/coder/link/</loc>
+    <lastmod>2020-06-25T17:28:15+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.liqiangxo.one/post/n-newblog/</loc>
     <lastmod>2020-06-25T17:28:15+08:00</lastmod>
   </url>
   
