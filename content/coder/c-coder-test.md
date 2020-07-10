@@ -1,10 +1,10 @@
 ---
-title: "Coder test"
+title: "腾讯语音sdk cocos2d接入"
 date: 2020-06-28T16:32:22+08:00
-slug: "rich-text"
-keywords: ["腾讯", "腾讯语音sdk", "cocos2d-lua", "cocos2d","test"]
+slug: "cocos2d-radio"
+keywords: ["腾讯", "腾讯语音sdk", "cocos2d-lua", "cocos2d"]
 draft: false
-tags: ["test"]
+tags: ["sdk","cocos2d"]
 math: false
 toc: false
 ---
