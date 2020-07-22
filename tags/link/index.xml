@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>命令行常见问题记录</title>
+      <link>https://www.liqiangxo.one/coder/terminal/</link>
+      <pubDate>Thu, 25 Jun 2020 17:28:15 +0800</pubDate>
+      
+      <guid>https://www.liqiangxo.one/coder/terminal/</guid>
+      <description>#命令行常见问题记录（第一次用&amp;gt;markdown）
+###1. 命令行中文乱码问题
+ 缩进一 解决问题：直接在命令行输入如下内容也行能解决问题  &amp;gt;chcp 65001Active code page: 65001 你还可以通过chcp命令查看cmd的编码设置 GBK2312的代码页编号是936，然后改成utf-8的编码即可，utf-8对应的代码页编号是65001， 所以执行chcp 65001就可以把cmd的编码设置成uft-8了，这样就解决了乱码问题  &amp;gt; chcpActive code page: 936  </description>
+    </item>
+    
+    <item>
       <title>文件软连接和硬链接 link</title>
       <link>https://www.liqiangxo.one/coder/link/</link>
       <pubDate>Thu, 25 Jun 2020 17:28:15 +0800</pubDate>
