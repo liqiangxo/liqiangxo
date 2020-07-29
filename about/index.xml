@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>liqiangxo on </title>
+    <title>Abouts on </title>
     <link>https://www.liqiangxo.one/about/</link>
-    <description>Recent content in liqiangxo on </description>
+    <description>Recent content in Abouts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     <copyright>© {year}</copyright>
@@ -18,7 +18,7 @@
       <pubDate>Sun, 28 Jun 2020 16:29:29 +0800</pubDate>
       
       <guid>https://www.liqiangxo.one/about/b-blog-post/</guid>
-      <description>我的</description>
+      <description></description>
     </item>
     
   </channel>

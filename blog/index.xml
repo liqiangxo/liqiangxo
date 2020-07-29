@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on </title>
+    <link>https://www.liqiangxo.one/blog/</link>
+    <description>Recent content in Blogs on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sun, 28 Jun 2020 16:04:49 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.liqiangxo.one/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>codex one</title>
+      <link>https://www.liqiangxo.one/blog/b-blog-post/</link>
+      <pubDate>Sun, 28 Jun 2020 16:04:49 +0800</pubDate>
+      
+      <guid>https://www.liqiangxo.one/blog/b-blog-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
