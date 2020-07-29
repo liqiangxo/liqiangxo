@@ -62,4 +62,22 @@ H:\gitlib\Hilo-dev> gulp -v
 [gulp] CLI version 2.3.0
 [gulp] Local version 2.3.0
 ```
+结果执行gulp还是报错。。。
+
+
+然后在windows上怎么都没有搞好gulp 环境 ，放弃了，在mac上继续。
+
+结果一毛一样。
+
+搞了半天发现package.json 里面的gulp 版本变成了4.0.2 
+
+结果原因是npm audit fix自动帮我把版本改到了最新的版本 吐血了。
+
+欢迎package.json 之后再按照文档执行命令，不用乱添加命令。
+
+结果果然是成功的。
+
+文档没有骗人，我是自欺欺人。哈哈哈。
+
+到现在 学习才刚刚开始。
 
