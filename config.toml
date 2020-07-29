@@ -67,23 +67,17 @@ publishDir = "./liqiangxo"
 # Controls the navigation
 [[menu.main]]
   identifier = "liqiangxo"
-  name = "liqiangxo"
+  name = "Hallo world!"
   title = "liqiangxo"
   url = "/"
 [[menu.main]]
-  identifier = "about"
-  name = "about"
-  title = "About"
-  url = "/about"
+  identifier = "data"
+  name = "日记本"
+  title = "data"
+  url = "/data"
 
 [[menu.main]]
   identifier = "coder"
-  name = "coder"
+  name = "码人生"
   title = "coder"
   url = "/coder"
-
-[[menu.main.js]]
-  identifier = "js"
-  name = "js"
-  title = "js"
-  url = "/coder/js"
