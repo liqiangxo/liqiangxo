@@ -66,18 +66,18 @@ publishDir = "./liqiangxo"
 
 # Controls the navigation
 [[menu.main]]
-  identifier = "liqiangxo"
+  identifier = "a-liqiangxo"
   name = "liqiangxo"
   title = "liqiangxo"
   url = "/"
 [[menu.main]]
-  identifier = "about"
+  identifier = "b-about"
   name = "about"
   title = "About"
   url = "/about"
 
 [[menu.main]]
-  identifier = "coder"
+  identifier = "c-coder"
   name = "coder"
   title = "coder"
   url = "/coder"
