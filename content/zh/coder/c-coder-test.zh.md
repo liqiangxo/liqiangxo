@@ -1,0 +1,23 @@
+---
+title: "Coder test"
+date: 2020-06-28T16:32:22+08:00
+slug: "rich-text"
+keywords: ["腾讯", "腾讯语音sdk", "cocos2d-lua", "cocos2d","test"]
+draft: false
+tags: ["sdk"]
+math: false
+toc: false
+---
+
+首先看接入流程帮助文档
+
+下载sdk 下载demo 更具api直接把自己需要的从demo里面拿过来
+腾讯语音sdk的接入
+环境:cocos2d-lua 3.13,mac10.11.6,xcode8.2.1,
+步骤:
+1. 在c++做lua接口
+2. 通过tolua++导入到lua（tolua方法）
+3. 再按sdk的调用顺序调用
+
+遇到的问题
+总是在成功进入语音房间以后不能成功打开扬声器，可是按照sdk的 api打开扬声器的条件都满足了，最后把打开扬声器的代码延迟了一些，就可以了

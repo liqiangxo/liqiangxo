@@ -1,19 +1,19 @@
-[zh-cn]
-  title = "Hugo Zzo Theme"
+[zh]
+  title = "李强"
   languageName = "中文"
   weight = 1
   languagedir = "ltr"
-  contentdir = "content/cn"
+  contentdir = "content/zh"
 
 [en]
-  title = "Hugo Zzo Theme"
+  title = "LQ"
   languageName = "English"
   weight = 2
   languagedir = "ltr"
   contentdir = "content/en"
 
 [ko]
-  title = "Hugo Zzo Theme"
+  title = "이강"
   languageName = "한국어"
   weight = 3
   languagedir = "ltr"

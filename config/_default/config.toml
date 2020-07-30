@@ -1,8 +1,8 @@
 baseURL = "http://localhost:1313/"
-title = "Hugo Zzo Theme"
+title = "LQ"
 theme = "zzo"
 
-defaultContentLanguage = "en"
+defaultContentLanguage = "zh"
 defaultContentLanguageInSubdir = true
 hasCJKLanguage = true
 
