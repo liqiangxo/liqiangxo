@@ -1,79 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://www.liqiangxo.one/</loc>
-    <lastmod>2020-06-28T16:32:22+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/coder/rich-text/</loc>
-    <lastmod>2020-06-28T16:32:22+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/coder/</loc>
-    <lastmod>2020-06-28T16:32:22+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/tags/</loc>
-    <lastmod>2020-06-28T16:32:22+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/tags/test/</loc>
-    <lastmod>2020-06-28T16:32:22+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/about/</loc>
-    <lastmod>2020-06-28T16:29:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/about/b-blog-post/</loc>
-    <lastmod>2020-06-28T16:29:29+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/a-about-post/</loc>
-    <lastmod>2020-06-28T16:27:37+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/blog/</loc>
-    <lastmod>2020-06-28T16:04:49+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/blog/b-blog-post/</loc>
-    <lastmod>2020-06-28T16:04:49+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/tags/link/</loc>
-    <lastmod>2020-06-25T17:28:15+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/post/</loc>
-    <lastmod>2020-06-25T17:28:15+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/coder/link/</loc>
-    <lastmod>2020-06-25T17:28:15+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/post/n-newblog/</loc>
-    <lastmod>2020-06-25T17:28:15+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/categories/</loc>
-  </url>
-  
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://www.liqiangxo.one/zh/sitemap.xml</loc>
+		
+	   	<lastmod>2020-07-29T22:59:28+08:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://www.liqiangxo.one/en/sitemap.xml</loc>
+		
+	   	<lastmod>2020-03-05T14:08:48+00:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://www.liqiangxo.one/ko/sitemap.xml</loc>
+		
+	   	<lastmod>2019-10-19T11:44:14+09:00</lastmod>
+		
+	</sitemap>
+	
+</sitemapindex>

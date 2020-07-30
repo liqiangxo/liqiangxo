@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Hilo on 李强</title>
+    <link>https://www.liqiangxo.one/zh/tags/hilo/</link>
+    <description>Recent content in Hilo on 李强</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>liqiangxoxo@gmail.com (liqiang)</managingEditor>
+    <webMaster>liqiangxoxo@gmail.com (liqiang)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 06 Jul 2020 23:34:50 +0800</lastBuildDate>
+    
+        <atom:link href="https://www.liqiangxo.one/zh/tags/hilo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Hilo</title>
+        <link>https://www.liqiangxo.one/zh/coder/hilo/</link>
+        <pubDate>Mon, 06 Jul 2020 23:34:50 +0800</pubDate>
+        <author>liqiangxoxo@gmail.com (liqiang)</author>
+        <atom:modified>Mon, 06 Jul 2020 23:34:50 +0800</atom:modified>
+        <guid>https://www.liqiangxo.one/zh/coder/hilo/</guid>
+        <description>本文用于记录在hilo学习过程 1.根据hilo文档搭建环境 2.遇到没有npm 就去百度怎么npm 然后装node等等 3.有了npm 终于开始了np</description>
+        
+        <dc:creator>liqiang</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Hilo</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
