@@ -1,0 +1,9 @@
+[ch]
+  title = "Hugo Zzo Theme"
+  languageName = "中文"
+  weight = 1
+
+[en]
+  title = "Hugo Zzo Theme"
+  languageName = "English"
+  weight = 2

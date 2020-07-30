@@ -2,6 +2,7 @@
 title: "Mygit"
 date: 2020-07-06T23:41:21+08:00
 draft: false
+tags: ["git"]
 ---
 
 本文用于记录自己git使用过程中的问题

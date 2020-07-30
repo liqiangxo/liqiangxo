@@ -1,0 +1,18 @@
+
+# Controls the navigation
+
+[[main]]
+  identifier = "contact"
+  name = "contact"
+  url = "contact"
+  weight = 6
+[[main]]
+  identifier = "talks"
+  name = "talks"
+  url = "talks"
+  weight = 6
+[[main]]
+  identifier = "showcase"
+  name = "Showcase"
+  url = "showcase"
+  weight = 7

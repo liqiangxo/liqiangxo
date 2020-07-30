@@ -4,7 +4,7 @@ date: 2020-06-25T17:28:15+08:00
 slug: "terminal"
 keywords: ["terminal", "命令行","中文乱码"]
 draft: false
-tags: ["link"]
+tags: ["link","terminal"]
 math: false
 toc: false
 ---

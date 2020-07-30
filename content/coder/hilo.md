@@ -2,6 +2,7 @@
 title: "Hilo"
 date: 2020-07-06T23:34:50+08:00
 draft: false
+tags: ["Hilo"]
 ---
 
 本文用于记录在hilo学习过程

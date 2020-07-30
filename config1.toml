@@ -2,13 +2,20 @@
 languageCode = "zh-CN"
 defaultContentLanguage = "zh-cn"
 baseURL = "https://www.liqiangxo.one/"
-copyright = "© {year}"
+
+copyright = "©{year}, All Rights Reserved" # copyright symbol: $copy; current year: {year}
+timeout = 10000
+enableEmoji = true
 
 # The value "hugo-theme-codex" is only to get the exampleSite
 # to work in this repo. Change to whatever name you gave the theme
 # when you added it. If you followed the README, you should have 
 # added the theme using the name "codex".
-theme = "codex" 
+theme = "zzo" 
+
+title = "LQ" # Title of your site
+
+enableGitInfo = false # When true, the modified date will appear on a summary and single page. Since GitHub info needs to be fetched, this feature will slow down to build depending on a page number you have
 
 # REMOVE THIS!
 # This is only to get the exampleSite to work in this repo.
@@ -52,32 +59,57 @@ publishDir = "./liqiangxo"
   #   "Twitter", "GitHub", "Email", "Facebook", "GitLab", "Instagram", "LinkedIn", "YouTube"
   iconTitles = ["Twitter", "GitHub", "Email", "GitLab"]
 
+googleAnalytics = ""
 # This disables Hugo's default syntax highlighting in favor
 # of prismjs. If you wish to use Hugo's default syntax highlighting
 # over prismjs, remove this. You will also need to remove the prismjs
 # vendor script in layouts/blog/single.html.
-[markup]
-  [markup.highlight]
-    codeFences = false
+# [markup]
+#   [markup.highlight]
+#     codeFences = false
     
   # Set to false to disallow raw HTML in markdown files
-  [markup.goldmark.renderer]
-      unsafe = true
+#   [markup.goldmark.renderer]
+#       unsafe = true
 
 # Controls the navigation
-[[menu.main]]
-  identifier = "liqiangxo"
-  name = "Hallo world!"
-  title = "liqiangxo"
-  url = "/"
-[[menu.main]]
-  identifier = "data"
-  name = "日记本"
-  title = "data"
-  url = "/data"
+# [[menu.main]]
+#   identifier = "liqiangxo"
+#   name = "Hallo world!"
+#   title = "liqiangxo"
+#   url = "/"
+# [[menu.main]]
+#   identifier = "data"
+#   name = "日记本"
+#   title = "data"
+#   url = "/data"
 
-[[menu.main]]
-  identifier = "coder"
-  name = "码人生"
-  title = "coder"
-  url = "/coder"
+# [[menu.main]]
+#   identifier = "coder"
+#   name = "码人生"
+#   title = "coder"
+#   url = "/coder"
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      hardWraps = true
+      unsafe = true
+      xHTML = true
+  [markup.highlight]
+    codeFences = true
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = false
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 2
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
