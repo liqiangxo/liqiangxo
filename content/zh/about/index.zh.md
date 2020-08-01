@@ -5,12 +5,6 @@ type: "about"
 description: About Page
 ---
 
-## 2015-3-1 北京全视道
-```
-cocos2dx开发单机小游戏 
-```
-[x战线](http://news.4399.com/xzhanxian/zixun/m/600030.html)
-![xf](http://newsimg.5054399.com/uploads/userup/1602/021A1302240.jpg)
 ## 2016-4-1 北京环球
 ```
 cocos js前端开发 
@@ -52,3 +46,10 @@ android
 
 [异次元大作战](https://www.taptap.com/app/162531)
 
+
+## 2015-3-1 北京全视道
+```
+cocos2dx开发单机小游戏 
+```
+[x战线](http://news.4399.com/xzhanxian/zixun/m/600030.html)
+![xf](http://newsimg.5054399.com/uploads/userup/1602/021A1302240.jpg)
