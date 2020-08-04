@@ -20,6 +20,12 @@ android
 
 [挂机吧主公](https://tieba.baidu.com/f?kw=%B9%D2%BB%FA%B0%C9%D6%F7%B9%AB&fr=ala0&tpl=5)
 
+| ![1](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3023093373,2514043510&fm=26&gp=0.jpg) | ![2](https://ss1.bdstatic.com/70cFvXSh_Q1YnxGkpoWK1HF6hhy/it/u=3356590871,2610065148&fm=26&gp=0.jpg) | ![3](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=635986471,2023937362&fm=26&gp=0.jpg) |
+|:-|:-|:-|
+
+| ![1](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=778289455,2572033351&fm=26&gp=0.jpg) | ![2](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1290122453,4069861154&fm=26&gp=0.jpg) | ![3](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=1745653943,2129597073&fm=26&gp=0.jpg) |
+|:-|:-|:-|
+
 [异次元大作战](https://www.taptap.com/app/162531)
 
 | ![1](https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=2254090197,1148041248&fm=11&gp=0.jpg) | ![2](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=62084195,2902910454&fm=11&gp=0.jpg) | ![3](https://ss2.bdstatic.com/70cFvnSh_Q1YnxGkpoWK1HF6hhy/it/u=308980586,2597344224&fm=26&gp=0.jpg) |
