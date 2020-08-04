@@ -1,11 +1,11 @@
 {
   "manifest_version": 2,
-  "name": "Hugo Zzo theme",
-  "short_name": "Hugo Zzo theme",
+  "name": "liqiangxo",
+  "short_name": "lq",
   "version": "1.0.0",
-  "default_locale": "cn",
+  "default_locale": "zh",
   "description": "Hugo blog theme with rich features",
-  "start_url": "https://themes.gohugo.io/theme/hugo-theme-zzo/",
+  "start_url": "https://liqiangxo.one",
   "icons": [
     {
       "src": "favicon/android-icon-36x36.png",

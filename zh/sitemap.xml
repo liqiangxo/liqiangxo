@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://www.liqiangxo.one/zh/</loc>
-    <lastmod>2020-07-29T22:59:28+08:00</lastmod>
+    <lastmod>2020-07-31T13:55:59+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -20,6 +20,16 @@
                 hreflang="zh"
                 href="https://www.liqiangxo.one/zh/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://www.liqiangxo.one/zh/coder/</loc>
+    <lastmod>2020-07-31T13:55:59+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.liqiangxo.one/zh/coder/csdn/gyzb/</loc>
+    <lastmod>2020-07-31T13:55:59+08:00</lastmod>
   </url>
   
   <url>
@@ -60,11 +70,6 @@
                 hreflang="zh"
                 href="https://www.liqiangxo.one/zh/tags/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/zh/coder/</loc>
-    <lastmod>2020-07-17T00:34:22+08:00</lastmod>
   </url>
   
   <url>
@@ -248,44 +253,6 @@
                 rel="alternate"
                 hreflang="zh"
                 href="https://www.liqiangxo.one/zh/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/zh/tags/index/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.liqiangxo.one/en/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.liqiangxo.one/ko/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.liqiangxo.one/zh/tags/index/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://www.liqiangxo.one/zh/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://www.liqiangxo.one/en/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://www.liqiangxo.one/ko/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.liqiangxo.one/zh/posts/"
                 />
   </url>
   

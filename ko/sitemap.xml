@@ -140,11 +140,6 @@
     <loc>https://www.liqiangxo.one/ko/tags/index/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="https://www.liqiangxo.one/zh/tags/index/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://www.liqiangxo.one/en/tags/index/"
                 />
@@ -157,11 +152,6 @@
   
   <url>
     <loc>https://www.liqiangxo.one/ko/posts/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://www.liqiangxo.one/zh/posts/"
-                />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"

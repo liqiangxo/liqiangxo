@@ -6,21 +6,39 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>Coders on 李强</title>
+    <title>Coders on 咻咻咻</title>
     <link>https://www.liqiangxo.one/zh/coder/</link>
-    <description>Recent content in Coders on 李强</description>
+    <description>Recent content in Coders on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <managingEditor>liqiangxoxo@gmail.com (liqiang)</managingEditor>
     <webMaster>liqiangxoxo@gmail.com (liqiang)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
-    <lastBuildDate>Fri, 17 Jul 2020 00:34:22 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2020 13:55:59 +0800</lastBuildDate>
     
         <atom:link href="https://www.liqiangxo.one/zh/coder/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Gyzb</title>
+        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/</link>
+        <pubDate>Fri, 31 Jul 2020 13:55:59 +0800</pubDate>
+        <author>liqiangxoxo@gmail.com (liqiang)</author>
+        <atom:modified>Fri, 31 Jul 2020 13:55:59 +0800</atom:modified>
+        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/</guid>
+        <description>第一章：黄哲铿-疫情下，如何提高远程工作效率，让领导更信任你 第二章：袁明奇-目标检测实战-YOLOv3快速入门 第三章：胡淑敏-技术大牛教你如</description>
+        
+        <dc:creator>liqiang</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>装修</title>
