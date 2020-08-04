@@ -7,7 +7,7 @@ hugo server --theme=codex --buildDrafts
 
 # 发布
 ```sh
-hugo --theme=codex --baseUrl="https://www.liqiangxo.one/"
+hugo --baseUrl="https://www.liqiangxo.one/"
 ```
 
 
