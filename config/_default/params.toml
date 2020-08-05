@@ -80,7 +80,7 @@ enableThemeChange = true
 # service
 googleTagManager = "" # GTM-XXXXXX
 baiduAnalytics = ""
-enableBusuanzi = false
+enableBusuanzi = true
 busuanziSiteUV = true
 busuanziSitePV = true
 busuanziPagePV = true
@@ -111,10 +111,10 @@ commento = false
   repo = ""               # The repo to store comments
 
 [gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
-  owner = ""              # Your GitHub ID
-  repo = ""               # The repo to store comments
-  clientId = ""           # Your client ID
-  clientSecret = ""       # Your client secret
+  owner = "liqiangxo"              # Your GitHub ID
+  repo = "liqiangxo.one"               # The repo to store comments
+  clientId = "308418ef01a13fed6878"           # Your client ID
+  clientSecret = "4c747e7e505d45d48b6f1cc0a7ae5b4babcb052e"       # Your client secret
 
 # Valine.
 # You can get your appid and appkey from https://leancloud.cn
