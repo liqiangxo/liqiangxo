@@ -112,7 +112,7 @@ commento = false
 
 [gitalk]           # Gitalk is a comment system based on GitHub issues. see https://github.com/gitalk/gitalk
   owner = "liqiangxo"              # Your GitHub ID
-  repo = "liqiangxo.one"               # The repo to store comments
+  repo = "bolgtalk"               # The repo to store comments
   clientId = "308418ef01a13fed6878"           # Your client ID
   clientSecret = "4c747e7e505d45d48b6f1cc0a7ae5b4babcb052e"       # Your client secret
 
