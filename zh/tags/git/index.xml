@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>git on 咻咻咻</title>
-    <link>https://www.liqiangxo.one/zh/tags/git/</link>
+    <link>https://liqiangxo.one/zh/tags/git/</link>
     <description>Recent content in git on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 06 Jul 2020 23:41:21 +0800</lastBuildDate>
     
-        <atom:link href="https://www.liqiangxo.one/zh/tags/git/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://liqiangxo.one/zh/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Mygit</title>
-        <link>https://www.liqiangxo.one/zh/coder/mygit/</link>
+        <link>https://liqiangxo.one/zh/coder/mygit/</link>
         <pubDate>Mon, 06 Jul 2020 23:41:21 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Mon, 06 Jul 2020 23:41:21 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/mygit/</guid>
+        <guid>https://liqiangxo.one/zh/coder/mygit/</guid>
         <description>本文用于记录自己git使用过程中的问题 1.windows 下面拉取不下来子模块 需要勾上 2.git更新慢 解决方法： 在网站 https://www.ipaddress.com/ 分别搜索找出对应的ip： github.global.ssl.fastly.net github.com 在host</description>
         
         <dc:creator>liqiang</dc:creator>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Publications on LQ</title>
-    <link>https://www.liqiangxo.one/en/publication/</link>
+    <link>https://liqiangxo.one/en/publication/</link>
     <description>Recent content in Publications on LQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 05 Mar 2020 14:08:48 +0000</lastBuildDate>
     
-        <atom:link href="https://www.liqiangxo.one/en/publication/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://liqiangxo.one/en/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>article</title>
-        <link>https://www.liqiangxo.one/en/publication/article/</link>
+        <link>https://liqiangxo.one/en/publication/article/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>https://www.liqiangxo.one/en/publication/article/</guid>
+        <guid>https://liqiangxo.one/en/publication/article/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>book</title>
-        <link>https://www.liqiangxo.one/en/publication/book/</link>
+        <link>https://liqiangxo.one/en/publication/book/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>https://www.liqiangxo.one/en/publication/book/</guid>
+        <guid>https://liqiangxo.one/en/publication/book/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>
@@ -60,11 +60,11 @@
       
       <item>
         <title>misc</title>
-        <link>https://www.liqiangxo.one/en/publication/misc/</link>
+        <link>https://liqiangxo.one/en/publication/misc/</link>
         <pubDate>Thu, 05 Mar 2020 14:08:48 +0000</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Thu, 05 Mar 2020 14:08:48 +0000</atom:modified>
-        <guid>https://www.liqiangxo.one/en/publication/misc/</guid>
+        <guid>https://liqiangxo.one/en/publication/misc/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>

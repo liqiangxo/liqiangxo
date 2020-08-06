@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hugo on LQ</title>
-    <link>https://www.liqiangxo.one/en/showcase/hugo/</link>
+    <link>https://liqiangxo.one/en/showcase/hugo/</link>
     <description>Recent content in Hugo on LQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 19 Jan 2020 21:04:11 +0900</lastBuildDate>
     
-        <atom:link href="https://www.liqiangxo.one/en/showcase/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://liqiangxo.one/en/showcase/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Hugo Zzo Theme</title>
-        <link>https://www.liqiangxo.one/en/showcase/hugo/hugo-theme-zzo/</link>
+        <link>https://liqiangxo.one/en/showcase/hugo/hugo-theme-zzo/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://www.liqiangxo.one/en/showcase/hugo/hugo-theme-zzo/</guid>
+        <guid>https://liqiangxo.one/en/showcase/hugo/hugo-theme-zzo/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>Hugo zDoc Theme</title>
-        <link>https://www.liqiangxo.one/en/showcase/hugo/hugo-theme-zdoc/</link>
+        <link>https://liqiangxo.one/en/showcase/hugo/hugo-theme-zdoc/</link>
         <pubDate>Sun, 19 Jan 2020 21:13:42 +0900</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Sun, 19 Jan 2020 21:13:42 +0900</atom:modified>
-        <guid>https://www.liqiangxo.one/en/showcase/hugo/hugo-theme-zdoc/</guid>
+        <guid>https://liqiangxo.one/en/showcase/hugo/hugo-theme-zdoc/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>

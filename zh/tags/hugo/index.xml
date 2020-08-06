@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>hugo on 咻咻咻</title>
-    <link>https://www.liqiangxo.one/zh/tags/hugo/</link>
+    <link>https://liqiangxo.one/zh/tags/hugo/</link>
     <description>Recent content in hugo on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 07 Jul 2020 00:09:24 +0800</lastBuildDate>
     
-        <atom:link href="https://www.liqiangxo.one/zh/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://liqiangxo.one/zh/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Hugo</title>
-        <link>https://www.liqiangxo.one/zh/coder/hugo/</link>
+        <link>https://liqiangxo.one/zh/coder/hugo/</link>
         <pubDate>Tue, 07 Jul 2020 00:09:24 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Tue, 07 Jul 2020 00:09:24 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/hugo/</guid>
+        <guid>https://liqiangxo.one/zh/coder/hugo/</guid>
         <description>1.常用hugo命令 新建一个文件 1 hugo new coder/hilo.md 默认http://localhost:1313 如果开了多个端口会随机一个 1 hugo server --本地运行 发布 1 hugo 2.hugo</description>
         
         <dc:creator>liqiang</dc:creator>

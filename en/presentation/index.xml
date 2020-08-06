@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Presentations on LQ</title>
-    <link>https://www.liqiangxo.one/en/presentation/</link>
+    <link>https://liqiangxo.one/en/presentation/</link>
     <description>Recent content in Presentations on LQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 30 Oct 2019 20:48:10 +0900</lastBuildDate>
     
-        <atom:link href="https://www.liqiangxo.one/en/presentation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://liqiangxo.one/en/presentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,15 +24,15 @@
       
       <item>
         <title>Fourth</title>
-        <link>https://www.liqiangxo.one/en/presentation/dir/fourth/</link>
+        <link>https://liqiangxo.one/en/presentation/dir/fourth/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 30 Oct 2019 20:48:10 +0900</atom:modified>
-        <guid>https://www.liqiangxo.one/en/presentation/dir/fourth/</guid>
+        <guid>https://liqiangxo.one/en/presentation/dir/fourth/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>
-        <media:content url="https://www.liqiangxo.one/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://liqiangxo.one/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -54,15 +54,15 @@
       
       <item>
         <title>Third</title>
-        <link>https://www.liqiangxo.one/en/presentation/third/</link>
+        <link>https://liqiangxo.one/en/presentation/third/</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 30 Oct 2019 20:46:30 +0900</atom:modified>
-        <guid>https://www.liqiangxo.one/en/presentation/third/</guid>
+        <guid>https://liqiangxo.one/en/presentation/third/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>
-        <media:content url="https://www.liqiangxo.one/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://liqiangxo.one/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -84,15 +84,15 @@
       
       <item>
         <title>Second</title>
-        <link>https://www.liqiangxo.one/en/presentation/second/</link>
+        <link>https://liqiangxo.one/en/presentation/second/</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 30 Oct 2019 20:45:24 +0900</atom:modified>
-        <guid>https://www.liqiangxo.one/en/presentation/second/</guid>
+        <guid>https://liqiangxo.one/en/presentation/second/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>
-        <media:content url="https://www.liqiangxo.one/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://liqiangxo.one/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -114,15 +114,15 @@
       
       <item>
         <title>First</title>
-        <link>https://www.liqiangxo.one/en/presentation/first/</link>
+        <link>https://liqiangxo.one/en/presentation/first/</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 30 Oct 2019 19:45:20 +0900</atom:modified>
-        <guid>https://www.liqiangxo.one/en/presentation/first/</guid>
+        <guid>https://liqiangxo.one/en/presentation/first/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>
-        <media:content url="https://www.liqiangxo.one/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://liqiangxo.one/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

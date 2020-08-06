@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on 咻咻咻</title>
-    <link>https://www.liqiangxo.one/zh/series/</link>
+    <link>https://liqiangxo.one/zh/series/</link>
     <description>Recent content in Series on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -15,7 +15,7 @@
     <webMaster>liqiangxoxo@gmail.com (liqiang)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://www.liqiangxo.one/zh/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://liqiangxo.one/zh/series/index.xml" rel="self" type="application/rss+xml" />
     
     
     
