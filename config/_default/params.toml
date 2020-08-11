@@ -175,9 +175,9 @@ commento = false
   google-scholar = ""
 
 [donationOptions]
-  enable = false
-  alipay = "" 
-  wechat = ""
+  enable = true
+  alipay = "images/alipay.zh.png"
+  wechat = "images/wechat.zh.png"
   paypal = ""
   patreon = ""
 
