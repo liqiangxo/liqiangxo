@@ -23,13 +23,13 @@
 
       
       <item>
-        <title>Photo</title>
+        <title>照片</title>
         <link>https://liqiangxo.one/zh/gallery/photo/</link>
         <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
-        <atom:modified>Fri, 12 Oct 2018 10:20:16 +0900</atom:modified>
+        <atom:modified>Fri, 07 Aug 2020 15:29:16 +0800</atom:modified>
         <guid>https://liqiangxo.one/zh/gallery/photo/</guid>
-        <description>我的照片</description>
+        <description></description>
         
         <dc:creator>liqiang</dc:creator>
         <media:content url="https://liqiangxo.one/images/feature2/gallery.png" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -41,11 +41,11 @@
       </item>
       
       <item>
-        <title>Cartoon</title>
+        <title>漫画</title>
         <link>https://liqiangxo.one/zh/gallery/cartoon/</link>
         <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
-        <atom:modified>Thu, 11 Oct 2018 10:20:16 +0900</atom:modified>
+        <atom:modified>Fri, 07 Aug 2020 15:29:16 +0800</atom:modified>
         <guid>https://liqiangxo.one/zh/gallery/cartoon/</guid>
         <description></description>
         

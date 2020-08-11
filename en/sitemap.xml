@@ -4,82 +4,47 @@
   
   <url>
     <loc>https://liqiangxo.one/en/showcase/hugo/hugo-theme-zzo/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/showcase/hugo/hugo-theme-zdoc/</loc>
-    <lastmod>2020-01-19T21:13:42+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://liqiangxo.one/en/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://liqiangxo.one/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://liqiangxo.one/ko/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://liqiangxo.one/en/"
-                />
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/publication/article/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/publication/book/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/publication/misc/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/publication/</loc>
-    <lastmod>2020-03-05T14:08:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://liqiangxo.one/en/posts/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ko"
-                href="https://liqiangxo.one/ko/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://liqiangxo.one/en/posts/"
-                />
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/tags/shortcode/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/posts/shortcodes/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/tags/</loc>
-    <lastmod>2020-01-25T06:40:51+09:00</lastmod>
+    <lastmod>2020-08-05T00:24:13+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -99,17 +64,17 @@
   
   <url>
     <loc>https://liqiangxo.one/en/showcase/hugo/</loc>
-    <lastmod>2020-01-19T21:04:11+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/showcase/</loc>
-    <lastmod>2020-01-19T15:43:38+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/categories/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -129,27 +94,27 @@
   
   <url>
     <loc>https://liqiangxo.one/en/tags/css/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/tags/html/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/tags/markdown/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/posts/markdown-syntax/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/series/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -169,42 +134,42 @@
   
   <url>
     <loc>https://liqiangxo.one/en/categories/syntax/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/tags/themes/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/categories/themes/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/series/themes-guide/</loc>
-    <lastmod>2019-12-20T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/tags/privacy/</loc>
-    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+    <lastmod>2020-08-05T00:24:13+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/posts/rich-content/</loc>
-    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+    <lastmod>2020-08-05T00:24:13+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/tags/shortcodes/</loc>
-    <lastmod>2019-12-19T12:00:06+09:00</lastmod>
+    <lastmod>2020-08-05T00:24:13+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/tags/hugo/</loc>
-    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -219,107 +184,107 @@
   
   <url>
     <loc>https://liqiangxo.one/en/categories/hugo/</loc>
-    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/posts/syntax-highlight/</loc>
-    <lastmod>2019-12-18T10:33:41+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/posts/math-typesetting/</loc>
-    <lastmod>2019-12-17T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/tags/amoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/tags/bamoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/tags/emoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/posts/emoji-support/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/tags/gamoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/tags/namoji/</loc>
-    <lastmod>2019-12-16T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/categories/diagram/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/posts/test-viz/</loc>
-    <lastmod>2019-11-18T21:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/posts/test-wavedrom/</loc>
-    <lastmod>2019-11-18T18:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/posts/test-chartjs/</loc>
-    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/posts/test-js-sequence-diagrams/</loc>
-    <lastmod>2019-11-18T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/tags/diagram/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/posts/test-mermaid/</loc>
-    <lastmod>2019-11-17T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/categories/math/</loc>
-    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/posts/test-mathjax/</loc>
-    <lastmod>2019-11-16T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/posts/test-katex/</loc>
-    <lastmod>2019-11-15T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/posts/test-flowchart/</loc>
-    <lastmod>2019-11-14T12:00:06+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/gallery/cartoon/</loc>
-    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -339,7 +304,7 @@
   
   <url>
     <loc>https://liqiangxo.one/en/gallery/</loc>
-    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -359,7 +324,7 @@
   
   <url>
     <loc>https://liqiangxo.one/en/gallery/photo/</loc>
-    <lastmod>2019-10-31T10:20:16+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -379,32 +344,72 @@
   
   <url>
     <loc>https://liqiangxo.one/en/presentation/dir/fourth/</loc>
-    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://liqiangxo.one/en/presentation/</loc>
-    <lastmod>2019-10-30T20:48:10+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://liqiangxo.one/zh/presentation/dir/fourth/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liqiangxo.one/en/presentation/dir/fourth/"
+                />
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/presentation/third/</loc>
-    <lastmod>2019-10-30T20:46:30+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://liqiangxo.one/zh/presentation/third/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liqiangxo.one/en/presentation/third/"
+                />
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/presentation/second/</loc>
-    <lastmod>2019-10-30T20:45:24+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://liqiangxo.one/zh/presentation/second/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liqiangxo.one/en/presentation/second/"
+                />
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/presentation/first/</loc>
-    <lastmod>2019-10-30T19:45:20+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://liqiangxo.one/zh/presentation/first/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liqiangxo.one/en/presentation/first/"
+                />
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/archive/</loc>
-    <lastmod>2019-10-19T11:44:14+09:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://liqiangxo.one/zh/archive/"
+                />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -419,7 +424,7 @@
   
   <url>
     <loc>https://liqiangxo.one/en/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
@@ -439,21 +444,42 @@
   
   <url>
     <loc>https://liqiangxo.one/en/publication/article/article_any_folder_name_1/</loc>
-    <lastmod>2018-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/publication/book/book_any_folder_name_1/</loc>
-    <lastmod>2017-06-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/publication/misc/misc_any_folder_name_1/</loc>
-    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://liqiangxo.one/en/</loc>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://liqiangxo.one/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://liqiangxo.one/ko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liqiangxo.one/en/"
+                />
   </url>
   
   <url>
     <loc>https://liqiangxo.one/en/tags/index/</loc>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
@@ -463,6 +489,36 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://liqiangxo.one/en/tags/index/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://liqiangxo.one/en/posts/</loc>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ko"
+                href="https://liqiangxo.one/ko/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liqiangxo.one/en/posts/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://liqiangxo.one/en/presentation/</loc>
+    <lastmod>2020-07-30T19:07:03+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://liqiangxo.one/zh/presentation/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://liqiangxo.one/en/presentation/"
                 />
   </url>
   

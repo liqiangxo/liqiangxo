@@ -27,7 +27,7 @@
         <link>https://liqiangxo.one/zh/coder/mygit/</link>
         <pubDate>Mon, 06 Jul 2020 23:41:21 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
-        <atom:modified>Mon, 06 Jul 2020 23:41:21 +0800</atom:modified>
+        <atom:modified>Thu, 30 Jul 2020 19:18:07 +0800</atom:modified>
         <guid>https://liqiangxo.one/zh/coder/mygit/</guid>
         <description>本文用于记录自己git使用过程中的问题 1.windows 下面拉取不下来子模块 需要勾上 2.git更新慢 解决方法： 在网站 https://www.ipaddress.com/ 分别搜索找出对应的ip： github.global.ssl.fastly.net github.com 在host</description>
         
