@@ -68,7 +68,7 @@ enableTocSwitch = true
 itemsPerCategory = 5
 sidebarPosition = "right"
 tocLevels = ["h2", "h3", "h4"]
-enableSidebarPostsByOrder = false
+enableSidebarPostsByOrder = true
 
 # footer
 showPoweredBy = true
@@ -175,9 +175,9 @@ commento = false
   google-scholar = ""
 
 [donationOptions]
-  enable = false
-  alipay = "" 
-  wechat = ""
+  enable = true
+  alipay = "images/alipay.zh.png"
+  wechat = "images/wechat.zh.png"
   paypal = ""
   patreon = ""
 
@@ -187,6 +187,16 @@ commento = false
   username = ""
 [[share]]
   name = "twitter"
+[[share]]
+  name = "reddit"
+[[share]]
+  name = "linkedin"
+[[share]]
+  name = "weibo"
+[[share]]
+  name = "douban"
+[[share]]
+  name = "line"
 
 [[footerLinks]]
   name = ""
