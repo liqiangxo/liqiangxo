@@ -1,7 +1,8 @@
 ---
 title: "解决pip安装时速度慢的问题"
 date: 2020-08-09T22:50:12+08:00
-draft: true
+draft: false
+tags: ["pip","python"]
 ---
 转载：https://blog.csdn.net/e15273/article/details/79649876
 

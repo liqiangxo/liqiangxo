@@ -2,6 +2,7 @@
 title: "Python"
 date: 2020-08-09T22:59:19+08:00
 draft: true
+tags: ["python"]
 ---
 ### 第一章：课程介绍
 ### 第二章：数据分析师的一天
