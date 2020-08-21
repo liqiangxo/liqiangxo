@@ -13,14 +13,14 @@ notAllowedTypesInHomeSidebar = ["about", "archive", "showcase", "publication", "
 notAllowedTypesInArchive = ["about", "talks", "showcase", "publication", "presentation", "resume"]
 notAllowedTypesInHomeFeed = ["about", "archive", "contact", "talks", "showcase", "publication", "presentation", "resume", "gallery", "data", "coder"]
 
-viewportSize = "normal" # widest, wider, wide, normal, narrow
+viewportSize = "narrow" # widest, wider, wide, normal, narrow
 enableUiAnimation = true
 hideSingleContentsWhenJSDisabled = true
 enablePinnedPosts = true
 minItemsToShowInTagCloud = 2 # Minimum items to show in tag cloud
 
 # header
-homeHeaderType = "slide" # text, img, slide, typewriter
+homeHeaderType = "typewriter" # text, img, slide, typewriter
 
 # menu
 showMobileMenuTerms = ["tags", "categories", "series"]
@@ -63,7 +63,7 @@ enableListSidebarTitles = true
 enableToc = true
 hideToc = false
 tocFolding = true
-tocPosition = "inner" # inner, outer
+tocPosition = "outer" # inner, outer
 enableTocSwitch = true
 itemsPerCategory = 5
 sidebarPosition = "right"
@@ -171,7 +171,7 @@ commento = false
   matrix = ""
   xmpp = ""
   dev-to = ""
-  gitea = ""
+  gitea = "https://gitee.com/liqiangxo"
   google-scholar = ""
 
 [donationOptions]

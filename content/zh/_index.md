@@ -38,18 +38,18 @@ header:
     spaceBetweenTitleSubtitle: 16
   
   - type: img
-    imageSrc: images/header/psb (5).jpeg
+    imageSrc: gallery/photo/psb (5).jpeg
     imageSize: cover
     imageRepeat: no-repeat
     imagePosition: center
     height: 235
     paddingX: 50
     paddingY: 0
-    align: center
+    align: left
     title:
-      -
+      - 大雪纷飞
     subtitle:
-      -
+      - 爽
     titleColor:
     titleShadow: false
     titleFontSize: 44

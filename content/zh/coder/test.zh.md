@@ -1,12 +1,12 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title: "Test"
+date: 2020-08-21T13:23:01+08:00
 description:
 author: "liqiangxo"
 authorEmoji: 🤖
-authorImage: "/images/whoami/avatar.jpg" # 静态文件夹中的图像路径
+authorImage: "" # 静态文件夹中的图像路径
 authorImageUrl: "" # 您的图像url。我们首先使用“authorImageUrl”。如果未设置，则使用“authorImage”。
-authorDesc: "test" # 作者描述
+authorDesc: # 作者描述
 draft: false
 hideToc: false
 enableToc: true
@@ -21,3 +21,7 @@ categories:
 -
 image:
 ---
+## test0
+## test
+## test2
+## test3
