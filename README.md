@@ -2,7 +2,9 @@
 自己的博客 hugo 搭建
 
 # 安装hugo
-操作hugo官网
+参照
+[hugo中文官网](https://www.gohugo.org/)
+[hugo英文官网](https://gohugo.io/getting-started/)
 
 # 运行
 ```sh
