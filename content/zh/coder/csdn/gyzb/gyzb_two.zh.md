@@ -5,9 +5,9 @@ draft: false
 tags: ["百场IT大咖技术直播，全天候免费看！直播回放-学习","YOLO"]
 ---
 
-### 第二章：袁明奇-目标检测实战-YOLOv3快速入门 --听不懂下一张
+### 第二章：袁明奇-目标检测实战-YOLOv3快速入门 --听不懂下一章
 总结
-1.简单回顾了YOLOv3的算法架构
+1. 简单回顾了YOLOv3的算法架构
 2. YOLOv3前向推理部分代码精读
 项目地址:
 https://github.com/Mingqi-Yuan/YOLOv3

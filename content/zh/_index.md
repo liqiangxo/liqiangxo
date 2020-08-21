@@ -2,13 +2,14 @@
 header:
   - type: typewriter
     methods:
-      - typeString: Hello world!
+      - typeString: 咻------------咻----咻----
       - pauseFor: 2500
       - deleteAll: true
-      - typeString: Strings can be removed
+      - typeString: 时间如梭，总要留下些什么
       - pauseFor: 2500
-      - deleteChars: 7
-      - typeString: <strong>altered!</strong>
+      # - deleteChars: 7
+      - deleteAll: true
+      - typeString: 生命在于折腾，生命不息，折腾不止。
       - pauseFor: 2500
     options:
       loop: true
@@ -37,7 +38,7 @@ header:
     spaceBetweenTitleSubtitle: 16
   
   - type: img
-    imageSrc: images/header/background.jpg
+    imageSrc: images/header/psb (5).jpeg
     imageSize: cover
     imageRepeat: no-repeat
     imagePosition: center
@@ -58,7 +59,7 @@ header:
     spaceBetweenTitleSubtitle: 20
 
   - type: slide
-    height: 235
+    height: 435
     options:
         startSlide: 0
         auto: 5000
@@ -71,45 +72,57 @@ header:
       - paddingX: 50
         paddingY: 0
         align: left
-        imageSrc: images/header/background.jpg
+        imageSrc: gallery/photo/psb (5).jpeg
         imageSize: cover
         imageRepeat: no-repeat
         imagePosition: center
         title:
-          - header title1
+          - 大雪纷飞
         subtitle:
-          - header subtitle1
+          - 爽
+        titleColor:
+        titleShadow: true
         titleFontSize: 44
-        subtitleFontSize: 16
+        subtitleColor:
+        subtitleCursive: true
+        subtitleFontSize: 34
         spaceBetweenTitleSubtitle: 20
 
       - paddingX: 50
         paddingY: 0
-        align: center
-        imageSrc: images/header/background.jpg
+        align: left
+        imageSrc: gallery/photo/psb (14).jpeg
         imageSize: cover
         imageRepeat: no-repeat
         imagePosition: center
         title:
-          - header title2
+          - 别客气
         subtitle:
-          - header subtitle2
+          - 坐
+        titleColor:
+        titleShadow: true
         titleFontSize: 44
-        subtitleFontSize: 16
+        subtitleColor:
+        subtitleCursive: true
+        subtitleFontSize: 34
         spaceBetweenTitleSubtitle: 20
 
       - paddingX: 50
         paddingY: 0
         align: right
-        imageSrc: images/header/background.jpg
+        imageSrc: gallery/photo/41596082084_.pic.jpg
         imageSize: cover
         imageRepeat: no-repeat
         imagePosition: center
         title:
-          - header title3
+          - 睡吧睡吧
         subtitle:
-          - header subtitle3
+          - 我亲爱的宝贝
+        titleColor:
+        titleShadow: true
         titleFontSize: 44
-        subtitleFontSize: 16
+        subtitleColor:
+        subtitleCursive: true
+        subtitleFontSize: 34
         spaceBetweenTitleSubtitle: 20
 ---
