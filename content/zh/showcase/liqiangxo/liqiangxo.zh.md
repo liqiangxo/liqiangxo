@@ -1,7 +1,7 @@
 ---
 title: "liqiangxo"
 date: 2020-08-21T23:58:29+08:00
-description: "My portfolio, repos, works overview page"
+description: "我自己的网站github"
 link: https://github.com/liqiangxo/liqiangxo
 repo: https://github.com/liqiangxo/liqiangxo
 pinned: true

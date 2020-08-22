@@ -44,7 +44,7 @@ pubPaginate = 20
 # whoami
 myname = "liqiang"
 email = "liqiangxoxo@gmail.com"
-whoami = "Web Developer"
+whoami = "cocos,python,js,php"
 bioImageUrl = ""
 useGravatar = false
 location = "中国, 上海"
