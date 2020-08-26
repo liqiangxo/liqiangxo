@@ -26,3 +26,31 @@ image:
 ## test1
 ## test2
 ## test3
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
+
+### My Great Heading {#custom-id}
+
+term
+: definition
+
+~~The world is flat.~~
+
+<kdb> Ctrl + 1 </kdb>
+
+<pre class="pre-scrollable">在 pre 元素中的文本
+	宽度的显示与文本的宽度一样，
+	保留了  空  格 和
+
+	换行。</pre>
