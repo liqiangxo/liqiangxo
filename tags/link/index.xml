@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>link on </title>
+    <link>https://www.liqiangxo.one/tags/link/</link>
+    <description>Recent content in link on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Thu, 25 Jun 2020 17:28:15 +0800</lastBuildDate>
+    
+	<atom:link href="https://www.liqiangxo.one/tags/link/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>命令行常见问题记录</title>
+      <link>https://www.liqiangxo.one/coder/terminal/</link>
+      <pubDate>Thu, 25 Jun 2020 17:28:15 +0800</pubDate>
+      
+      <guid>https://www.liqiangxo.one/coder/terminal/</guid>
+      <description>#命令行常见问题记录（第一次用&amp;gt;markdown）
+###1. 命令行中文乱码问题
+ 缩进一 解决问题：直接在命令行输入如下内容也行能解决问题  &amp;gt;chcp 65001Active code page: 65001 你还可以通过chcp命令查看cmd的编码设置 GBK2312的代码页编号是936，然后改成utf-8的编码即可，utf-8对应的代码页编号是65001， 所以执行chcp 65001就可以把cmd的编码设置成uft-8了，这样就解决了乱码问题  &amp;gt; chcpActive code page: 936  </description>
+    </item>
+    
+    <item>
+      <title>文件软连接和硬链接 link</title>
+      <link>https://www.liqiangxo.one/coder/link/</link>
+      <pubDate>Thu, 25 Jun 2020 17:28:15 +0800</pubDate>
+      
+      <guid>https://www.liqiangxo.one/coder/link/</guid>
+      <description>今天遇到一个问题，就是为了不影响线上玩家，把我们的gm目录分成了两个svn，线上web目录和gmweb目录。 但是存在一个问题，就是线上和后台可能遇到修改和获取一个文件。
+比如运营修改了gmweb目录的文件 玩家需要获取这个文件但是只能获取到线上web目录的文件
+那么这个时候就可以用到硬链接了。
+用到就学到
+什么是link文件？
+如何操作？
+你可能遇到的问题
+问题1 mklink 拒绝访问
+问题2 查问题的时候看到js右键特效就想自己用，于是浪费了一堆时间 去玩js
+&amp;lt;script type=&amp;quot;text/javascript&amp;quot;&amp;gt; /* 鼠标特效 */ var a_idx = 0; jQuery(document).ready(function($) { $(&amp;quot;body&amp;quot;).click(function(e) { var a = new Array(&amp;quot;❤富强❤&amp;quot;,&amp;quot;❤民主❤&amp;quot;,&amp;quot;❤文明❤&amp;quot;,&amp;quot;❤和谐❤&amp;quot;,&amp;quot;❤自由❤&amp;quot;,&amp;quot;❤平等❤&amp;quot;,&amp;quot;❤公正❤&amp;quot;,&amp;quot;❤法治❤&amp;quot;,&amp;quot;❤爱国❤&amp;quot;,&amp;quot;❤敬业❤&amp;quot;,&amp;quot;❤诚信❤&amp;quot;,&amp;quot;❤友善❤&amp;quot;); var $i = $(&amp;quot;&amp;lt;span&amp;gt;&amp;lt;/span&amp;gt;&amp;quot;).text(a[a_idx]); a_idx = (a_idx + 1) % a.length; var x = e.pageX, y = e.pageY; $i.css({ &amp;quot;z-index&amp;quot;: 999999999999999999999999999999999999999999999999999999999999999999999, &amp;quot;top&amp;quot;: y - 20, &amp;quot;left&amp;quot;: x, &amp;quot;position&amp;quot;: &amp;quot;absolute&amp;quot;, &amp;quot;font-weight&amp;quot;: &amp;quot;bold&amp;quot;, &amp;quot;color&amp;quot;: &amp;quot;rgb(&amp;quot;+~~(255*Math.random())+&amp;quot;,&amp;quot;+~~(255*Math.random())+&amp;quot;,&amp;quot;+~~(255*Math.random())+&amp;quot;)&amp;quot; }); $(&amp;quot;body&amp;quot;).append($i); $i.animate({ &amp;quot;top&amp;quot;: y - 180, &amp;quot;opacity&amp;quot;: 0 }, 1500, function() { $i.</description>
+    </item>
+    
+  </channel>
+</rss>

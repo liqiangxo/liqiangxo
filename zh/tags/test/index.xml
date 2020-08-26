@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>test on 咻咻咻</title>
+    <link>https://www.liqiangxo.one/zh/tags/test/</link>
+    <description>Recent content in test on 咻咻咻</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>liqiangxoxo@gmail.com (liqiang)</managingEditor>
+    <webMaster>liqiangxoxo@gmail.com (liqiang)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Fri, 21 Aug 2020 13:23:01 +0800</lastBuildDate>
+    
+        <atom:link href="https://www.liqiangxo.one/zh/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Test</title>
+        <link>https://www.liqiangxo.one/zh/coder/test/</link>
+        <pubDate>Fri, 21 Aug 2020 13:23:01 +0800</pubDate>
+        <author>liqiangxoxo@gmail.com (liqiang)</author>
+        <atom:modified>Wed, 26 Aug 2020 22:26:00 +0800</atom:modified>
+        <guid>https://www.liqiangxo.one/zh/coder/test/</guid>
+        <description>test0 test1 test2 test3 Write the press release Update the website Contact the media Syntax Description Header Title Paragraph Text Here&amp;rsquo;s a sentence with a footnote. 1 My Great Heading term definition The world is flat. Ctrl + 1 在 pre 元素中的文本 宽度的显示与文本的宽度一样， 保留了 空 格 和 换行。</description>
+        
+        <dc:creator>李强</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>test</category>
+            
+          
+        
+        
+          
+            
+              <category>asdf2</category>
+            
+          
+        
+        
+          
+            
+              <category>asdf1</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

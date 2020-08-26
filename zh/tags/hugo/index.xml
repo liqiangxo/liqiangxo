@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>hugo on 咻咻咻</title>
-    <link>https://liqiangxo.one/zh/tags/hugo/</link>
+    <link>https://www.liqiangxo.one/zh/tags/hugo/</link>
     <description>Recent content in hugo on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 18 Aug 2020 23:49:11 +0800</lastBuildDate>
     
-        <atom:link href="https://liqiangxo.one/zh/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.liqiangxo.one/zh/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>本hugo博客配置使用说明</title>
-        <link>https://liqiangxo.one/zh/coder/hugohelp/</link>
+        <link>https://www.liqiangxo.one/zh/coder/hugohelp/</link>
         <pubDate>Tue, 18 Aug 2020 23:49:11 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
-        <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://liqiangxo.one/zh/coder/hugohelp/</guid>
+        <atom:modified>Sat, 22 Aug 2020 00:45:44 +0800</atom:modified>
+        <guid>https://www.liqiangxo.one/zh/coder/hugohelp/</guid>
         <description>Zzo theme for Hugo - cn 2020-07-24 新功能 - [主标题中的类型写入程序] 我添加了新的主标题选项。现在，我们有5个选项-空，文本，图像，滑块和打字机按照以下步骤进行应</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -52,11 +52,11 @@
       
       <item>
         <title>Hugo</title>
-        <link>https://liqiangxo.one/zh/coder/hugo/</link>
+        <link>https://www.liqiangxo.one/zh/coder/hugo/</link>
         <pubDate>Tue, 07 Jul 2020 00:09:24 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://liqiangxo.one/zh/coder/hugo/</guid>
+        <guid>https://www.liqiangxo.one/zh/coder/hugo/</guid>
         <description>1.常用hugo命令 新建一个文件 1 hugo new coder/hilo.md 默认http://localhost:1313 如果开了多个端口会随机一个 1 hugo server --本地运行 发布 1 hugo 2.hugo</description>
         
         <dc:creator>liqiang</dc:creator>

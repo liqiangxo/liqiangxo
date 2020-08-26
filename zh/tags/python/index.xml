@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>python on 咻咻咻</title>
-    <link>https://liqiangxo.one/zh/tags/python/</link>
+    <link>https://www.liqiangxo.one/zh/tags/python/</link>
     <description>Recent content in python on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 18 Aug 2020 23:27:40 +0800</lastBuildDate>
     
-        <atom:link href="https://liqiangxo.one/zh/tags/python/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.liqiangxo.one/zh/tags/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>python类型判断</title>
-        <link>https://liqiangxo.one/zh/coder/baidu/pythontype/</link>
+        <link>https://www.liqiangxo.one/zh/coder/baidu/pythontype/</link>
         <pubDate>Tue, 18 Aug 2020 23:27:40 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://liqiangxo.one/zh/coder/baidu/pythontype/</guid>
+        <guid>https://www.liqiangxo.one/zh/coder/baidu/pythontype/</guid>
         <description>python的数据类型有：数字(int)、浮点(float)、字符串(str)，列表(list)、元组(tuple)、字典(dict)、集合</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -48,11 +48,11 @@
       
       <item>
         <title>第二十四章：元宵-1小时精讲：python数据分析与金融量化</title>
-        <link>https://liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty_four/</link>
+        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty_four/</link>
         <pubDate>Mon, 17 Aug 2020 23:53:17 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty_four/</guid>
+        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty_four/</guid>
         <description>第二十四章：元宵-1小时精讲：python数据分析与金融量化</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -76,11 +76,11 @@
       
       <item>
         <title>周立伟-1小时玩转Python：学会制作疫情地图！</title>
-        <link>https://liqiangxo.one/zh/coder/csdn/gyzb/gyzb_ten/</link>
+        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_ten/</link>
         <pubDate>Mon, 17 Aug 2020 23:50:30 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://liqiangxo.one/zh/coder/csdn/gyzb/gyzb_ten/</guid>
+        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_ten/</guid>
         <description>第十章：周立伟-1小时玩转Python：学会制作疫情地图！</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -104,11 +104,11 @@
       
       <item>
         <title>第九章：王闻-零基础小白也能动手学Python</title>
-        <link>https://liqiangxo.one/zh/coder/csdn/gyzb/gyzb_nine/</link>
+        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_nine/</link>
         <pubDate>Mon, 17 Aug 2020 23:50:26 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://liqiangxo.one/zh/coder/csdn/gyzb/gyzb_nine/</guid>
+        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_nine/</guid>
         <description>第九章：王闻-零基础小白也能动手学Python</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -132,11 +132,11 @@
       
       <item>
         <title>第七章：屈桢深-换个角度看世界：计算机视觉入门必看！</title>
-        <link>https://liqiangxo.one/zh/coder/csdn/gyzb/gyzb_seven/</link>
+        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_seven/</link>
         <pubDate>Mon, 17 Aug 2020 23:50:10 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://liqiangxo.one/zh/coder/csdn/gyzb/gyzb_seven/</guid>
+        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_seven/</guid>
         <description>第七章：屈桢深-换个角度看世界：计算机视觉入门必看！ 我们要学什么? 环境搭建: Python + OpenCV 1.安装Anaconda 2.安装OpenCV 3.测试程序,</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -164,11 +164,11 @@
       
       <item>
         <title>第五章：李宁-手把手教你：如何实现病毒扩散仿真器？（Python版）</title>
-        <link>https://liqiangxo.one/zh/coder/csdn/gyzb/gyzb_five/</link>
+        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_five/</link>
         <pubDate>Mon, 17 Aug 2020 23:50:03 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://liqiangxo.one/zh/coder/csdn/gyzb/gyzb_five/</guid>
+        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_five/</guid>
         <description>第五章：李宁-手把手教你：如何实现病毒扩散仿真器？（Python版） pyqt开发 正态分布 生成由中心到远逐渐稀少的模拟城市人员的点 Qt Designer 可视化编</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -192,11 +192,11 @@
       
       <item>
         <title>解决pip安装时速度慢的问题</title>
-        <link>https://liqiangxo.one/zh/coder/python/pip/</link>
+        <link>https://www.liqiangxo.one/zh/coder/python/pip/</link>
         <pubDate>Sun, 09 Aug 2020 22:50:12 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://liqiangxo.one/zh/coder/python/pip/</guid>
+        <guid>https://www.liqiangxo.one/zh/coder/python/pip/</guid>
         <description>转载：https://blog.csdn.net/e15273/article/details/79649876 国内源： 新版ubuntu要求</description>
         
         <dc:creator>liqiang</dc:creator>

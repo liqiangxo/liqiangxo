@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>PPT on 咻咻咻</title>
-    <link>https://liqiangxo.one/zh/presentation/</link>
+    <link>https://www.liqiangxo.one/zh/presentation/</link>
     <description>Recent content in PPT on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -15,7 +15,7 @@
     <webMaster>liqiangxoxo@gmail.com (liqiang)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://liqiangxo.one/zh/presentation/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.liqiangxo.one/zh/presentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -23,15 +23,15 @@
       
       <item>
         <title>Fourth</title>
-        <link>https://liqiangxo.one/zh/presentation/dir/fourth/</link>
+        <link>https://www.liqiangxo.one/zh/presentation/dir/fourth/</link>
         <pubDate>Wed, 30 Oct 2019 20:48:10 +0900</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Fri, 07 Aug 2020 15:29:16 +0800</atom:modified>
-        <guid>https://liqiangxo.one/zh/presentation/dir/fourth/</guid>
+        <guid>https://www.liqiangxo.one/zh/presentation/dir/fourth/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>
-        <media:content url="https://liqiangxo.one/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.liqiangxo.one/images/feature1/number-four.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -53,15 +53,15 @@
       
       <item>
         <title>Third</title>
-        <link>https://liqiangxo.one/zh/presentation/third/</link>
+        <link>https://www.liqiangxo.one/zh/presentation/third/</link>
         <pubDate>Wed, 30 Oct 2019 20:46:30 +0900</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Fri, 07 Aug 2020 15:29:16 +0800</atom:modified>
-        <guid>https://liqiangxo.one/zh/presentation/third/</guid>
+        <guid>https://www.liqiangxo.one/zh/presentation/third/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>
-        <media:content url="https://liqiangxo.one/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.liqiangxo.one/images/feature1/number-three.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -83,15 +83,15 @@
       
       <item>
         <title>Second</title>
-        <link>https://liqiangxo.one/zh/presentation/second/</link>
+        <link>https://www.liqiangxo.one/zh/presentation/second/</link>
         <pubDate>Wed, 30 Oct 2019 20:45:24 +0900</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Fri, 07 Aug 2020 15:29:16 +0800</atom:modified>
-        <guid>https://liqiangxo.one/zh/presentation/second/</guid>
+        <guid>https://www.liqiangxo.one/zh/presentation/second/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>
-        <media:content url="https://liqiangxo.one/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.liqiangxo.one/images/feature1/number-two.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -113,15 +113,15 @@
       
       <item>
         <title>First</title>
-        <link>https://liqiangxo.one/zh/presentation/first/</link>
+        <link>https://www.liqiangxo.one/zh/presentation/first/</link>
         <pubDate>Wed, 30 Oct 2019 19:45:20 +0900</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Fri, 07 Aug 2020 15:29:16 +0800</atom:modified>
-        <guid>https://liqiangxo.one/zh/presentation/first/</guid>
+        <guid>https://www.liqiangxo.one/zh/presentation/first/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>
-        <media:content url="https://liqiangxo.one/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://www.liqiangxo.one/images/feature1/number-one.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

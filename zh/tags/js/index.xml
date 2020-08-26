@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>js on 咻咻咻</title>
-    <link>https://liqiangxo.one/zh/tags/js/</link>
+    <link>https://www.liqiangxo.one/zh/tags/js/</link>
     <description>Recent content in js on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 17 Aug 2020 23:50:20 +0800</lastBuildDate>
     
-        <atom:link href="https://liqiangxo.one/zh/tags/js/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.liqiangxo.one/zh/tags/js/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>第八章：汤小洋-1小时入门Vue.js框架</title>
-        <link>https://liqiangxo.one/zh/coder/csdn/gyzb/gyzb_eight/</link>
+        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_eight/</link>
         <pubDate>Mon, 17 Aug 2020 23:50:20 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://liqiangxo.one/zh/coder/csdn/gyzb/gyzb_eight/</guid>
+        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_eight/</guid>
         <description>第八章：汤小洋-1小时入门Vue.js框架</description>
         
         <dc:creator>liqiang</dc:creator>

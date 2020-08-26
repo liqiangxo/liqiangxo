@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archive on 이강</title>
-    <link>https://liqiangxo.one/ko/archive/</link>
+    <link>https://www.liqiangxo.one/ko/archive/</link>
     <description>Recent content in Archive on 이강</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     
-        <atom:link href="https://liqiangxo.one/ko/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.liqiangxo.one/ko/archive/index.xml" rel="self" type="application/rss+xml" />
     
     
     
