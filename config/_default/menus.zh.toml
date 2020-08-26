@@ -30,10 +30,23 @@
   weight = 5
 
 [[main]]
+  identifier = "contact"
+  name = "联系"
+  url = "contact"
+  weight = 6
+
+
+[[main]]
+  identifier = "showcase"
+  name = "链接"
+  url = "showcase"
+  weight = 8
+
+[[main]]
   identifier = "gallery"
   name = "画廊"
   url = "gallery"
-  weight = 6
+  weight = 9
 
 [[main]]
   parent = "gallery"

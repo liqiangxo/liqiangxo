@@ -469,7 +469,7 @@ series:
 -
 categories:
 -
-images: # when mode is one-by-one, images front-matter variable works
+images: # when mode is one-by-one, images front-matter variable works当模式是一个接一个时，图像前物质变量起作用
   - image: image1.jpg # image path: static/gallery/anygalleryname/image1.jpg
     caption: caption1
   - image: image2.jpg # image path: static/gallery/anygalleryname/image2.jpg
@@ -480,8 +480,9 @@ images: # when mode is one-by-one, images front-matter variable works
 ```
 
 If you set the mode to one-by-one, the list.html page will use images front-matter variable you set above. If you set the mode to at-once, list.html page will not use front-matter images variable and just read all files under the static/gallery/anygalleryname folder.
+如果将模式设置为逐个，则列表.html页面将使用您在上面设置的images front matter变量。如果你马上把模式设为，列表.htmlpage不会使用front matter images变量，只读取static/gallery/anygalleryname文件夹下的所有文件。
 
-1. Make a gallery folder under the content folder
+1. Make a gallery folder under the content folder在“内容”文件夹下创建库文件夹
 
 ```bash
 root
@@ -489,7 +490,7 @@ root
 │   ├── gallery
 ```
 
-2. Make a sub folder under the gallery folder
+2. Make a sub folder under the gallery folder在gallery文件夹下创建子文件夹
 
 ```bash
 root
@@ -498,7 +499,7 @@ root
 │   │   ├── anygalleryname
 ```
 
-3. Make a index.md file under the sub folder using this command
+3. Make a index.md file under the sub folder using this command 使index.md使用此命令在子文件夹下的文件
 
 ```bash
 hugo new --kind gallery gallery/anygalleryname/index.md
@@ -517,6 +518,7 @@ root
 ## Contact Page
 
 Currently available service: [formspree]. Open an issue if you need another service vendor. If you want just a blank page and use a markdown, set the service param empty.
+当前可用服务：[formspree]。如果需要其他服务供应商，请打开问题。如果只需要一个空白页并使用降价，请将service param设置为空。
 
 1. Make a file at root/content/contact/index.md
 
@@ -547,6 +549,7 @@ This is contact page.
 ## Talks Page
 
 Talks page is a listing page of links(video, ppt, event, ...). UI is similar to the archive page. Follow the below steps to make it.
+会谈页面是一个链接（视频，ppt，事件，…）的列表页面。用户界面类似于归档页面。请按照以下步骤进行操作。
 
 1. Make a file at root/content/talks/_index.md.
 
@@ -560,6 +563,7 @@ titleWrap: wrap # wrap, nowrap
 ```
 
 2. Next, make some files under the `talks` folder you have created in step 1. If you want to make other link post, then make another file under the `talks` folder.
+接下来，在步骤1中创建的“talks”文件夹下创建一些文件。如果你想发布其他链接，那么在“talks”文件夹下创建另一个文件。
 
 root/content/talks/myLinks.md
 
@@ -579,6 +583,7 @@ categories:
 ```
 
 3. Finally, make a menu at your root/config/_default/menus.en.toml file
+最后，在root/config/\u默认设置一个菜单/menus.en.toml菜单文件
 
 ```toml
 [[main]]
@@ -591,6 +596,7 @@ categories:
 And we are good to go.
 
 4. Additionally, if you want to use a future date for the talks page, you need more things to do.
+    另外，如果你想在会谈页面使用一个未来的日期，你需要做更多的事情。
 
     - add config variable named `buildFuture` at root/config/_default/config.toml
 
@@ -615,6 +621,7 @@ And we are good to go.
 ## Showcase Page
 
 Showcase page is a listing page of project showcase. Follow the below steps to make it.
+Showcase页面是project Showcase的列表页面。请按照以下步骤进行操作。
 
 1. Make a file at `root/content/showcase/_index.md`.
 
@@ -623,7 +630,7 @@ Showcase page is a listing page of project showcase. Follow the below steps to m
 title: "Showcase overview" # For SEO
 date: 2020-01-19T15:43:38+09:00
 description: My portfolio, repos, works overview page # For SEO
-enableBio: true # Set to false if you want to hide the bio component.
+enableBio: true # Set to false if you want to hide the bio component.如果要隐藏bio组件，请设置为false。
 ---
 ```
 
@@ -634,7 +641,7 @@ enableBio: true # Set to false if you want to hide the bio component.
 title: "Hugo" # category name
 date: 2020-01-19T21:04:11+09:00
 description: Hugo theme collection # For SEO
-category: theme # meta info appeared on a card bottom side. category in category
+category: theme # meta info appeared on a card bottom side. category in category元信息出现在卡片底部。类别中的类别
 enableBio: true
 ---
 ```
@@ -733,10 +740,12 @@ hasCJKLanguage = true
 ## Customizing
 
 It's a better idea not to modify the Zzo theme's folder if you want future support and upgrade. (You can modify if it doesn't matter) If you want more customizing options, open a new issue.
+如果你想要将来的支持和升级，最好不要修改Zzo主题的文件夹。（如果不重要，可以修改）如果需要更多自定义选项，请打开新问题。
 
 ### custom css
 
 1. Add this line of code to your params.toml file.
+将这行代码添加到参数toml文件。
 
 ```bash
 config/_default/params.toml
@@ -747,6 +756,7 @@ custom_css = ["css/custom.css", "scss/custom.scss", ...]
 ```
 
 2. Add your file to assets folder. Filename must match with config params you set above.
+将文件添加到“资源”文件夹。文件名必须与上面设置的配置参数匹配。
 
 ```bash
 assets/scss/custom.scss
@@ -754,6 +764,8 @@ assets/css/custom.css
 ```
 
 3. If you want to modify the Zzo theme's default color, you should override the theme style. For example, if you're going to change the body background-color because I set the background-color in #body selector, not in the body tag selector, you should override body background-color there. Body tag selector won't work. And make sure to set !important. After setting the values, restart Hugo.
+如果要修改Zzo主题的默认颜色，则应覆盖主题样式。例如，如果您要更改车身背景色，因为我是在“车身选择器”中设置背景色的，而不是在“车身标记选择器”中设置的，则应该在此处覆盖车身背景色。正文标记选择器不起作用。一定要准备好！很重要。设置好这些值后，重新启动Hugo。
+
 
 ```css
 assets/scss/custom.scss or assets/css/custom.css
@@ -768,6 +780,7 @@ assets/scss/custom.scss or assets/css/custom.css
 ### custom js
 
 1. Add this line of code to your params.toml file.
+将这行代码添加到参数toml文件。
 
 ```bash
 config/_default/params.toml
@@ -778,6 +791,7 @@ custom_js = ["js/custom.js", ...]
 ```
 
 2. Add your file to assets folder. Filename must match with config params you set above.
+将文件添加到“资源”文件夹。文件名必须与上面设置的配置参数匹配。
 
 ```bash
 assets/js/custom.js
