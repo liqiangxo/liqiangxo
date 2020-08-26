@@ -568,7 +568,7 @@
     
     var enableSearchHighlight = JSON.parse("true");
     
-    var searchResultPosition = JSON.parse("\"main\"");
+    var searchResultPosition = JSON.parse("\"side\"");
     
     var sectionType = JSON.parse("\"page\"");
     
@@ -1626,37 +1626,53 @@
             
 <header class="header">
     
-          
+        <script src="https://cdn.jsdelivr.net/npm/typewriter-effect@2.13.1/dist/core.js" integrity="sha256-dsvC/UolMujQ/UQ7lVeJ7Q/FV3BSzWO0rc8iz1rqHQo=" crossorigin="anonymous"></script>
+
+
   
     
-  
-    
-      <div class="site-header basicflex-column site-header__align-center" data-ani="true" style="width: 100%; height: 200px; padding: 0px 50px;">
-        
-                    
-          
-          <div class="site-header__title site-header__title--shadow" style="font-size: 44px; ;">
-            HUGO
-          </div>
-          
-        
-        
-          <div style="height: 16px"></div>
-        
-        
-           
-          <div class="site-header__subtitle" style="font-size: 18px; " data-cursive="true">
-            The world’s fastest framework for building websites
-          </div>
-                
-        
+      <div class="site-header basicflex-column site-header__align-center" data-ani="true" style="width: 100%; height: 190px; padding: px 50px; font-size: 44px; color:yellow;">
+        <div id="typewriter"></div>
       </div>
+
+      <script>
+        
+        
+
+        var methods = JSON.parse("[{\"typeString\":\"Hello world!\"},{\"pauseFor\":2500},{\"deleteAll\":true},{\"typeString\":\"Strings can be removed\"},{\"pauseFor\":2500},{\"deleteChars\":7},{\"typeString\":\"\\u003cstrong\\u003ealtered!\\u003c/strong\\u003e\"},{\"pauseFor\":2500}]");
+        var options = JSON.parse("{\"autoStart\":false,\"loop\":true}");
+        var typeElem = document.getElementById("typewriter");
+        var typewriter = new Typewriter(typeElem, options);
+        
+        for (var i = 0; i < methods.length; i++) {
+          var key = Object.keys(methods[i])[0];
+
+          if (key === "typeString") {
+            typewriter.typeString(methods[i][key]);
+          } else if (key === "pauseFor") {
+            typewriter.pauseFor(methods[i][key]);
+          } else if (key === "deleteAll") {
+            typewriter.deleteAll();
+          } else if (key === "deleteChars") {
+            typewriter.deleteChars(methods[i][key]);
+          } else if (key === "pause") {
+            typewriter.pause();
+          } else if (key === "stop") {
+            typewriter.stop();
+          }
+        }
+
+        typewriter.start();
+      </script>
     
   
     
   
     
   
+    
+  
+
 
     
 </header>
@@ -1959,6 +1975,10 @@
       
     
       
+      <a href="https://gitee.com/liqiangxo" target="_blank" rel="noreferrer" title="gitea" aria-label="gitea">
+        <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="25" height="25"><path fill="currentColor" d="M4.186 5.421C2.341 5.417-.13 6.59.006 9.531c.213 4.594 4.92 5.02 6.801 5.057.206.862 2.42 3.834 4.059 3.99h7.18c4.306-.286 7.53-13.022 5.14-13.07-3.953.186-6.296.28-8.305.296v3.975l-.626-.277-.004-3.696c-2.306-.001-4.336-.108-8.189-.298-.482-.003-1.154-.085-1.876-.087zm.261 1.625h.22c.262 2.355.688 3.732 1.55 5.836-2.2-.26-4.072-.899-4.416-3.285-.178-1.235.422-2.524 2.646-2.552zm8.557 2.315c.15.002.303.03.447.096l.749.323-.537.979a.672.597 0 0 0-.241.038.672.597 0 0 0-.405.764.672.597 0 0 0 .112.174l-.926 1.686a.672.597 0 0 0-.222.038.672.597 0 0 0-.405.764.672.597 0 0 0 .86.36.672.597 0 0 0 .404-.765.672.597 0 0 0-.158-.22l.902-1.642a.672.597 0 0 0 .293-.03.672.597 0 0 0 .213-.112c.348.146.633.265.838.366.308.152.417.253.45.365.033.11-.003.322-.177.694-.13.277-.345.67-.599 1.133a.672.597 0 0 0-.251.038.672.597 0 0 0-.405.764.672.597 0 0 0 .86.36.672.597 0 0 0 .404-.764.672.597 0 0 0-.137-.202c.251-.458.467-.852.606-1.148.188-.402.286-.701.2-.99-.086-.289-.35-.477-.7-.65-.23-.113-.517-.233-.86-.377a.672.597 0 0 0-.038-.239.672.597 0 0 0-.145-.209l.528-.963 2.924 1.263c.528.229.746.79.49 1.26l-2.01 3.68c-.257.469-.888.663-1.416.435l-4.137-1.788c-.528-.228-.747-.79-.49-1.26l2.01-3.679c.176-.323.53-.515.905-.53h.064z"/></svg>
+      </a>
+      
     
       
       <a href="https://github.com/liqiangxo" target="_blank" rel="noreferrer" title="github" aria-label="github">
@@ -2152,198 +2172,33 @@
         
         
         
-            <span class="tag">
-                <a href="/en/tags/amoji/" class="is-tags taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        amoji
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
         
         
         
-            <span class="tag">
-                <a href="/en/tags/bamoji/" class="is-tags taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        bamoji
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
         
         
         
-            <span class="tag">
-                <a href="/en/tags/css/" class="is-tags taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        css
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
         
         
         
-            <span class="tag">
-                <a href="/en/tags/diagram/" class="is-tags taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        diagram
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
         
         
         
-            <span class="tag">
-                <a href="/en/tags/emoji/" class="is-tags taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        emoji
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
         
         
         
-            <span class="tag">
-                <a href="/en/tags/gamoji/" class="is-tags taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        gamoji
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
         
         
         
-            <span class="tag">
-                <a href="/en/tags/html/" class="is-tags taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        html
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
         
         
         
-            <span class="tag">
-                <a href="/en/tags/hugo/" class="is-tags taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        hugo
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
         
         
         
-            <span class="tag">
-                <a href="/en/tags/index/" class="is-tags taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        index
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
         
         
         
-            <span class="tag">
-                <a href="/en/tags/markdown/" class="is-tags taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        markdown
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
-        
-        
-        
-            <span class="tag">
-                <a href="/en/tags/namoji/" class="is-tags taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        namoji
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
-        
-        
-        
-            <span class="tag">
-                <a href="/en/tags/privacy/" class="is-tags taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        privacy
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
-        
-        
-        
-            <span class="tag">
-                <a href="/en/tags/shortcode/" class="is-tags taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        shortcode
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
-        
-        
-        
-            <span class="tag">
-                <a href="/en/tags/shortcodes/" class="is-tags taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        shortcodes
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
-        
-        
-        
-            <span class="tag">
-                <a href="/en/tags/themes/" class="is-tags taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        themes
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
         
         
     </section>
@@ -2373,17 +2228,6 @@
         
         
         
-            <span class="tag">
-                <a href="/en/categories/hugo/" class="is-categories taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        hugo
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
-        
         
         
             <span class="tag">
@@ -2399,29 +2243,7 @@
         
         
         
-            <span class="tag">
-                <a href="/en/categories/syntax/" class="is-categories taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        syntax
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
         
-        
-        
-            <span class="tag">
-                <a href="/en/categories/themes/" class="is-categories taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        themes
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
         
         
     </section>
@@ -2437,17 +2259,6 @@
         </span>
         
         
-        
-            <span class="tag">
-                <a href="/en/series/themes-guide/" class="is-series taxo__link" data-dir="ltr">
-                    <span class="taxo__text">
-                        Themes Guide
-                    </span>
-                    <span class="taxo__num" dir="auto">
-                        1
-                    </span>
-                </a>
-            </span>
         
         
     </section>
@@ -2566,7 +2377,7 @@
         
           
             
-              <a href="https://liqiangxo.one/zh/" data-lang="zh" class="dropdown-item">中文</a>
+              <a href="https://liqiangxo.one/zh/" data-lang="zh" class="dropdown-item">中国话</a>
             
           
         
@@ -2642,6 +2453,10 @@
       </a>
             
     
+      
+      <a href="https://gitee.com/liqiangxo" title="gitea" aria-label="gitea">
+        <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="32" height="32"><path fill="currentColor" d="M4.186 5.421C2.341 5.417-.13 6.59.006 9.531c.213 4.594 4.92 5.02 6.801 5.057.206.862 2.42 3.834 4.059 3.99h7.18c4.306-.286 7.53-13.022 5.14-13.07-3.953.186-6.296.28-8.305.296v3.975l-.626-.277-.004-3.696c-2.306-.001-4.336-.108-8.189-.298-.482-.003-1.154-.085-1.876-.087zm.261 1.625h.22c.262 2.355.688 3.732 1.55 5.836-2.2-.26-4.072-.899-4.416-3.285-.178-1.235.422-2.524 2.646-2.552zm8.557 2.315c.15.002.303.03.447.096l.749.323-.537.979a.672.597 0 0 0-.241.038.672.597 0 0 0-.405.764.672.597 0 0 0 .112.174l-.926 1.686a.672.597 0 0 0-.222.038.672.597 0 0 0-.405.764.672.597 0 0 0 .86.36.672.597 0 0 0 .404-.765.672.597 0 0 0-.158-.22l.902-1.642a.672.597 0 0 0 .293-.03.672.597 0 0 0 .213-.112c.348.146.633.265.838.366.308.152.417.253.45.365.033.11-.003.322-.177.694-.13.277-.345.67-.599 1.133a.672.597 0 0 0-.251.038.672.597 0 0 0-.405.764.672.597 0 0 0 .86.36.672.597 0 0 0 .404-.764.672.597 0 0 0-.137-.202c.251-.458.467-.852.606-1.148.188-.402.286-.701.2-.99-.086-.289-.35-.477-.7-.65-.23-.113-.517-.233-.86-.377a.672.597 0 0 0-.038-.239.672.597 0 0 0-.145-.209l.528-.963 2.924 1.263c.528.229.746.79.49 1.26l-2.01 3.68c-.257.469-.888.663-1.416.435l-4.137-1.788c-.528-.228-.747-.79-.49-1.26l2.01-3.679c.176-.323.53-.515.905-.53h.064z"/></svg>
+      </a>
             
     
       

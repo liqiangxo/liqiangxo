@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>gulp on 咻咻咻</title>
+    <link>https://liqiangxo.one/zh/tags/gulp/</link>
+    <description>Recent content in gulp on 咻咻咻</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh</language>
+    <managingEditor>liqiangxoxo@gmail.com (liqiang)</managingEditor>
+    <webMaster>liqiangxoxo@gmail.com (liqiang)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 13 Jul 2020 13:32:05 +0800</lastBuildDate>
+    
+        <atom:link href="https://liqiangxo.one/zh/tags/gulp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Gulp</title>
+        <link>https://liqiangxo.one/zh/coder/hilo/gulp/</link>
+        <pubDate>Mon, 13 Jul 2020 13:32:05 +0800</pubDate>
+        <author>liqiangxoxo@gmail.com (liqiang)</author>
+        <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
+        <guid>https://liqiangxo.one/zh/coder/hilo/gulp/</guid>
+        <description>因为之前一直报错 1 AssertionError [ERR_ASSERTION]: Task function must be specified mac windows 都一样 报错这个错无赖 跑过来研究研究看看到底gulp 是什么鬼 原来gulp是一个node自动构建工具 https://v3.gulpjs.com.cn/docs/getting-started/ 根据入</description>
+        
+        <dc:creator>liqiang</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>gulp</category>
+            
+          
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -568,7 +568,7 @@
     
     var enableSearchHighlight = JSON.parse("true");
     
-    var searchResultPosition = JSON.parse("\"main\"");
+    var searchResultPosition = JSON.parse("\"side\"");
     
     var sectionType = JSON.parse("\"coder\"");
     
@@ -1227,7 +1227,7 @@
 <meta name="keywords" content="hugo">
 
 <meta name="created" content="2020-07-07T00:09:24&#43;0800">
-<meta name="modified" content="2020-08-07T15:29:16&#43;0800">
+<meta name="modified" content="2020-08-19T19:29:31&#43;0800">
 <meta property="article:published_time" content="2020-07-07T00:09:24&#43;0800">
 
 <meta name="author" content="liqiang">
@@ -1276,7 +1276,7 @@
     "@type": "WebPage",
     "headline": "Hugo",
     "datePublished": "2020-07-07T00:09:24+08:00",
-    "dateModified": "2020-08-07T15:29:16+08:00",
+    "dateModified": "2020-08-19T19:29:31+08:00",
     "url" : "https://liqiangxo.one/zh/coder/hugo/",
     "description": "1.常用hugo命令 新建一个文件 1 hugo new coder/hilo.md 默认http://localhost:1313 如果开了多个端口会随机一个 1 hugo server --本地运行 发布 1 hugo 2.hugo",
     "keywords": ["hugo"],
@@ -1609,7 +1609,7 @@
             
             
 
-<main class="single__main main-main">
+<main class="single__main main">
   
     <nav class="breadcrumb hide" aria-label="breadcrumbs">
   <script>document.querySelector('.breadcrumb').classList.remove('hide')</script>
@@ -1629,7 +1629,7 @@
   
   <li >
     
-      <a href="https://liqiangxo.one/zh/coder/" class="capitalize">Coders</a>
+      <a href="https://liqiangxo.one/zh/coder/" class="capitalize">码人生</a>
     
   </li>
   
@@ -1645,7 +1645,13 @@
 </nav>
   
   
-  <div class="single ">
+  <noscript>
+    <div class="single__nojs">
+      Please enable Javascript to view the contents
+    </div>
+  </noscript>
+  
+  <div class="single hide">
     <div class="single__nojs">Please enable Javascript to view the contents</div>
     <script>document.querySelector('.single').classList.remove('hide'); document.querySelector('.single__nojs').classList.add('hide');</script>
     <h2 class="single__title" data-ani="true">Hugo</h2>
@@ -1654,9 +1660,9 @@
 <div class="single__infos">
   <time class="single__info" title="创建日期">📅&nbsp;2020年07月07日 </time>
   
-  &nbsp;&middot;&nbsp; <time class="single__info" title="更新日期"> 📝&nbsp;2020年08月07日 </time>
+  &nbsp;&middot;&nbsp; <time class="single__info" title="更新日期"> 📝&nbsp;2020年08月19日 </time>
   
-  &nbsp;&middot;&nbsp; <span class="single__info" title="阅读时长"> ☕&nbsp;2&nbsp;分钟 </span>
+  &nbsp;&middot;&nbsp; <span class="single__info" title="阅读时长"> ☕&nbsp;4&nbsp;分钟 </span>
   
   <span class="single__info">
      &middot; 👀<span id="busuanzi_value_page_pv">...</span> 阅读
@@ -1763,6 +1769,180 @@ theme、themesDir改成主题目录名和主题路径</p>
     16.
 </code></pre>
 <p>还是挺好用的</p>
+<h2 id="2loveit-主题">2.LoveIt 主题</h2>
+<h1 id="loveit-主题--hugo-netlify-statushttpsapinetlifycomapiv1badgese60303f2-862c-4342-bf59-7c9adb10812edeploy-statushttpsappnetlifycomsiteshugo-loveitdeploys">LoveIt 主题 | Hugo <a href="https://app.netlify.com/sites/hugo-loveit/deploys"><img src="https://api.netlify.com/api/v1/badges/e60303f2-862c-4342-bf59-7c9adb10812e/deploy-status" alt="Netlify Status" /></a></h1>
+<p><a href="https://github.com/dillonzq/LoveIt/releases"><img src="https://img.shields.io/github/v/release/dillonzq/LoveIt?style=flat-square" alt="GitHub release (latest by date)" /></a><br />
+<a href="https://gohugo.io/"><img src="https://img.shields.io/badge/Hugo-%5E0.62.0-ff4088?style=flat-square&amp;logo=hugo" alt="Hugo" /></a><br />
+<a href="https://github.com/dillonzq/LoveIt/blob/master/LICENSE"><img src="https://img.shields.io/github/license/dillonzq/LoveIt?style=flat-square" alt="License" /></a><br />
+<a href="https://app.circleci.com/pipelines/github/dillonzq/LoveIt"><img src="https://img.shields.io/circleci/build/github/dillonzq/LoveIt/develop?label=CI&amp;style=flat-square&amp;logo=circleci" alt="CircleCI" /></a></p>
+<p><a href="https://github.com/dillonzq/LoveIt/blob/master/README.md">English README</a> | 简体中文说明</p>
+<blockquote>
+<p><a href="https://github.com/dillonzq/LoveIt">LoveIt</a> 是一个<strong>简洁</strong>、<strong>优雅</strong>且<strong>高效</strong>的 <a href="https://gohugo.io/">Hugo</a> 博客主题。</p>
+</blockquote>
+<p>它的原型基于 <a href="https://github.com/liuzc/LeaveIt">LeaveIt 主题</a> 和 <a href="https://github.com/Fastbyte01/KeepIt">KeepIt 主题</a>。</p>
+<p>由于三个主题外观的相似性，如果你对于它们的不同之处有疑问，请阅读 <a href="#%E4%B8%BA%E4%BB%80%E4%B9%88%E9%80%89%E6%8B%A9-LoveIt">为什么选择 LoveIt</a>，以便你能选择最适合你的一个。</p>
+<p><img src="https://github.com/dillonzq/LoveIt/raw/master/images/Apple-Devices-Preview.png" alt="Hugo 主题 LoveIt" /></p>
+<h2 id="主题预览httpshugoloveitcomzh-cn">主题<a href="https://hugoloveit.com/zh-cn/">预览</a></h2>
+<p>为了直观地浏览主题特性，这里有一个基于 <strong>LoveIt</strong> 主题渲染的 <a href="https://hugoloveit.com/zh-cn/">预览网站</a>。</p>
+<h2 id="为什么选择-loveit">为什么选择 LoveIt</h2>
+<p>相较于 LeaveIt 主题 和 KeepIt 主题，LoveIt 主题主要有以下修改</p>
+<ul>
+<li>自定义<strong>标题栏</strong></li>
+<li>自定义<strong>CSS 样式</strong></li>
+<li>焕然一新的<strong>主页</strong>，已经兼容最新版 Hugo</li>
+<li>大量的<strong>样式细节调整</strong>，包括颜色、字体大小、边距、代码预览样式</li>
+<li>可读性更强的<strong>深色模式</strong></li>
+<li>一些美观的 <strong>CSS 动画</strong></li>
+<li>易用和自动展开的<strong>文章目录</strong></li>
+<li>支持更多的<strong>社交链接</strong>、<strong>网站分享</strong>和<strong>评论系统</strong></li>
+<li>支持基于 <a href="https://lunrjs.com/">Lunr.js</a> 或 <a href="https://www.algolia.com/">algolia</a> 的<strong>搜索</strong></li>
+<li>一键<strong>复制代码</strong>到剪贴板</li>
+<li>支持基于 <strong><a href="https://fontawesome.com/">Font Awesome</a> 图标</strong>的扩展 Markdown 语法</li>
+<li>支持<strong>上标注释</strong>的扩展 Markdown 语法</li>
+<li>支持<strong>分数</strong>的扩展 Markdown 语法</li>
+<li>支持基于 <a href="https://katex.org/">KaTeX</a> 的<strong>数学公式</strong></li>
+<li>支持基于 <a href="https://github.com/knsv/mermaid">mermaid</a> 的<strong>图表</strong>生成功能</li>
+<li>支持基于 <a href="https://echarts.apache.org/">ECharts</a> 的<strong>交互式数据可视化</strong>生成功能</li>
+<li>支持基于 <a href="https://docs.mapbox.com/mapbox-gl-js">Mapbox GL JS</a> 的 <strong>Mapbox</strong> 地图显示功能</li>
+<li>支持基于 <a href="https://github.com/MoePlayer/APlayer">APlayer</a> 和 <a href="https://github.com/metowolf/MetingJS">MetingJS</a> 的内嵌<strong>音乐播放器</strong></li>
+<li>支持内嵌 <strong>Bilibili</strong> 视频</li>
+<li>支持多种<strong>注释</strong>的 shortcode</li>
+<li>支持自定义样式的 shortcode</li>
+<li>支持所有第三方库的 <strong>CDN</strong></li>
+<li>&hellip;</li>
+</ul>
+<p>所以，如果你更偏好 LoveIt 主题的设计语言和自由度，如果你想便捷地使用扩展的 Font Awesome 图标，如果你想在文章内嵌数学公式、流程图、音乐或是 Bilibili 视频，<br />
+那么，LoveIt 主题可能是更适合你。<br />
+希望你会 LoveIt ❤️!</p>
+<h2 id="特性">特性</h2>
+<h3 id="性能和-seo">性能和 SEO</h3>
+<ul>
+<li><strong>性能</strong>优化：在 <a href="https://developers.google.com/speed/pagespeed/insights">Google PageSpeed Insights</a> 中， 99/100 的移动设备得分和 100/100 的桌面设备得分</li>
+<li>使用基于 JSON-LD 格式 的 <strong>SEO SCHEMA</strong> 文件进行 SEO 优化</li>
+<li>支持 <strong><a href="https://analytics.google.com/analytics">Google Analytics</a></strong></li>
+<li>支持 <strong><a href="https://usefathom.com/">Fathom Analytics</a></strong></li>
+<li>支持搜索引擎的<strong>网站验证</strong> (Google, Bind, Yandex and Baidu)</li>
+<li>支持所有第三方库的 <strong>CDN</strong></li>
+<li>基于 <a href="https://github.com/aFarkas/lazysizes">lazysizes</a> 自动转换图片为<strong>懒加载</strong></li>
+</ul>
+<h3 id="外观和布局">外观和布局</h3>
+<ul>
+<li><strong>响应式</strong>布局</li>
+<li><strong>浅色/深色</strong> 主题模式</li>
+<li>全局一致的<strong>设计语言</strong></li>
+<li>支持<strong>分页</strong></li>
+<li>易用和自动展开的<strong>文章目录</strong></li>
+<li>支持<strong>多语言</strong>和国际化</li>
+<li>美观的 <strong>CSS 动画</strong></li>
+</ul>
+<h3 id="社交和评论系统">社交和评论系统</h3>
+<ul>
+<li>支持 <strong><a href="https://gravatar.com">Gravatar</a></strong> 头像</li>
+<li>支持本地<strong>头像</strong></li>
+<li>支持多达 <strong>64</strong> 种社交链接</li>
+<li>支持多达 <strong>28</strong> 种网站分享</li>
+<li>支持 <strong><a href="https://disqus.com">Disqus</a></strong> 评论系统</li>
+<li>支持 <strong><a href="https://github.com/gitalk/gitalk">Gitalk</a></strong> 评论系统</li>
+<li>支持 <strong><a href="https://valine.js.org/">Valine</a></strong> 评论系统</li>
+<li>支持 <strong><a href="https://developers.facebook.com/docs/plugins/comments/">Facebook</a> 评论</strong>系统</li>
+<li>支持 <strong><a href="https://comments.app/">Telegram comments</a> 评论</strong>系统</li>
+<li>支持 <strong><a href="https://commento.io/">Commento</a></strong> 评论系统</li>
+<li>支持 <strong><a href="https://utteranc.es/">Utterances</a></strong> 评论系统</li>
+</ul>
+<h3 id="扩展功能">扩展功能</h3>
+<ul>
+<li>支持基于 <a href="https://lunrjs.com/">Lunr.js</a> 或 <a href="https://www.algolia.com/">algolia</a> 的<strong>搜索</strong></li>
+<li>支持 <strong>Twemoji</strong></li>
+<li>支持<strong>代码高亮</strong></li>
+<li>一键<strong>复制代码</strong>到剪贴板</li>
+<li>支持基于 <a href="https://github.com/sachinchoolur/lightgallery.js">lightgallery.js</a> 的<strong>图片画廊</strong></li>
+<li>支持 <strong><a href="https://fontawesome.com/">Font Awesome</a> 图标</strong>的扩展 Markdown 语法</li>
+<li>支持<strong>上标注释</strong>的扩展 Markdown 语法</li>
+<li>支持<strong>分数</strong>的扩展 Markdown 语法</li>
+<li>支持基于 <a href="https://katex.org/">KaTeX</a> 的<strong>数学公式</strong></li>
+<li>支持基于 <a href="https://github.com/knsv/mermaid">mermaid</a> 的<strong>图表</strong> shortcode</li>
+<li>支持基于 <a href="https://echarts.apache.org/">ECharts</a> 的<strong>交互式数据可视化</strong> shortcode</li>
+<li>支持基于 <a href="https://docs.mapbox.com/mapbox-gl-js">Mapbox GL JS</a> 的 <strong>Mapbox</strong> shortcode</li>
+<li>支持基于 <a href="https://github.com/MoePlayer/APlayer">APlayer</a> 和 <a href="https://github.com/metowolf/MetingJS">MetingJS</a> 的<strong>音乐播放器</strong> shortcode</li>
+<li>支持 <strong>Bilibili 视频</strong> shortcode</li>
+<li>支持多种<strong>注释</strong>的 shortcode</li>
+<li>支持<strong>自定义样式</strong>的 shortcode</li>
+<li>支持<strong>自定义脚本</strong>的 shortcode</li>
+<li>支持基于 <a href="https://typeitjs.com/">TypeIt</a> 的<strong>打字动画</strong> shortcode</li>
+<li>支持基于 <a href="https://github.com/cferdinandi/smooth-scroll">Smooth Scroll</a> 的<strong>滚动动画</strong></li>
+<li>支持基于 <a href="https://github.com/osano/cookieconsent">cookieconsent</a> 的 <strong>Cookie 许可横幅</strong></li>
+<li>&hellip;</li>
+</ul>
+<h2 id="文档httpshugoloveitcomzh-cncategoriesdocumentation"><a href="https://hugoloveit.com/zh-cn/categories/documentation/">文档</a></h2>
+<p>在本地构建文档:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre class="chroma"><code><span class="lnt">1
+</span></code></pre></td>
+<td class="lntd">
+<pre class="chroma"><code class="language-bash" data-lang="bash">hugo server --source<span class="o">=</span>exampleSite
+</code></pre></td></tr></table>
+</div>
+</div><h2 id="多语言和国际化">多语言和国际化</h2>
+<p>LoveIt 支持下列语言:</p>
+<ul>
+<li>英语</li>
+<li>简体中文</li>
+<li>法语</li>
+<li>波兰语</li>
+<li>巴西葡萄牙语</li>
+<li>意大利语</li>
+<li>西班牙语</li>
+<li>德语</li>
+<li>塞尔维亚语</li>
+<li>俄语</li>
+<li>罗马尼亚语</li>
+<li>越南语</li>
+<li><a href="https://github.com/dillonzq/LoveIt/pulls">贡献一种新的语言</a></li>
+</ul>
+<p><a href="https://hugoloveit.com/zh-cn/theme-documentation-basics/#language-compatibility">语言兼容性</a></p>
+<h2 id="路线图httpsgithubcomdillonzqloveitprojects1"><a href="https://github.com/dillonzq/LoveIt/projects/1">路线图</a></h2>
+<h2 id="问题想法-bugs-和-prs">问题、想法、 bugs 和 PRs</h2>
+<p>所有的反馈都是欢迎的！详见 <a href="https://github.com/dillonzq/LoveIt/issues">issue tracker</a>。</p>
+<h2 id="许可协议">许可协议</h2>
+<p>LoveIt 根据 <strong>MIT</strong> 许可协议授权。 更多信息请查看 <a href="https://github.com/dillonzq/LoveIt/blob/master/LICENSE">LICENSE 文件</a>。</p>
+<p>LoveIt 主题中用到了以下项目，感谢它们的作者：</p>
+<ul>
+<li><a href="https://github.com/necolas/normalize.css">normalize.css</a></li>
+<li><a href="https://fontawesome.com/">Font Awesome</a></li>
+<li><a href="https://github.com/simple-icons/simple-icons">Simple Icons</a></li>
+<li><a href="https://daneden.github.io/animate.css/">Animate.css</a></li>
+<li><a href="https://github.com/cferdinandi/smooth-scroll">Smooth Scroll</a></li>
+<li><a href="https://github.com/algolia/autocomplete.js">autocomplete.js</a></li>
+<li><a href="https://lunrjs.com/">Lunr.js</a></li>
+<li><a href="https://github.com/algolia/algoliasearch-client-javascript">algoliasearch</a></li>
+<li><a href="https://github.com/aFarkas/lazysizes">lazysizes</a></li>
+<li><a href="https://github.com/fregante/object-fit-images">object-fit-images</a></li>
+<li><a href="https://github.com/twitter/twemoji">Twemoji</a></li>
+<li><a href="https://github.com/sachinchoolur/lightgallery.js">lightgallery.js</a></li>
+<li><a href="https://github.com/zenorocha/clipboard.js">clipboard.js</a></li>
+<li><a href="https://github.com/ellisonleao/sharer.js">Sharer.js</a></li>
+<li><a href="https://typeitjs.com/">TypeIt</a></li>
+<li><a href="https://katex.org/">KaTeX</a></li>
+<li><a href="https://github.com/knsv/mermaid">mermaid</a></li>
+<li><a href="https://echarts.apache.org/">ECharts</a></li>
+<li><a href="https://docs.mapbox.com/mapbox-gl-js">Mapbox GL JS</a></li>
+<li><a href="https://github.com/MoePlayer/APlayer">APlayer</a></li>
+<li><a href="https://github.com/metowolf/MetingJS">MetingJS</a></li>
+<li><a href="https://github.com/gitalk/gitalk">Gitalk</a></li>
+<li><a href="https://valine.js.org/">Valine</a></li>
+<li><a href="https://github.com/osano/cookieconsent">cookieconsent</a></li>
+</ul>
+<h2 id="作者">作者</h2>
+<p><a href="https://dillonzq.com">Dillon</a></p>
+<h2 id="赞助支持">赞助支持</h2>
+<p>如果你喜爱这个主题, 请考虑给我买杯咖啡 ☕️.</p>
+<ul>
+<li><a href="https://paypal.me/dillonzq">PayPal</a></li>
+<li><a href="https://github.com/dillonzq/LoveIt/raw/master/images/Alipay.jpg">支付宝</a></li>
+<li><a href="https://github.com/dillonzq/LoveIt/raw/master/images/Wechat.jpg">微信支付</a></li>
+</ul>
+<p>谢谢! ❤️</p>
 
     </article>
     
@@ -1961,6 +2141,10 @@ theme、themesDir改成主题目录名和主题路径</p>
       </a>
       
       
+      
+      <a href="https://gitee.com/liqiangxo" title="gitea" aria-label="gitea">
+        <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="25" height="25"><path fill="currentColor" d="M4.186 5.421C2.341 5.417-.13 6.59.006 9.531c.213 4.594 4.92 5.02 6.801 5.057.206.862 2.42 3.834 4.059 3.99h7.18c4.306-.286 7.53-13.022 5.14-13.07-3.953.186-6.296.28-8.305.296v3.975l-.626-.277-.004-3.696c-2.306-.001-4.336-.108-8.189-.298-.482-.003-1.154-.085-1.876-.087zm.261 1.625h.22c.262 2.355.688 3.732 1.55 5.836-2.2-.26-4.072-.899-4.416-3.285-.178-1.235.422-2.524 2.646-2.552zm8.557 2.315c.15.002.303.03.447.096l.749.323-.537.979a.672.597 0 0 0-.241.038.672.597 0 0 0-.405.764.672.597 0 0 0 .112.174l-.926 1.686a.672.597 0 0 0-.222.038.672.597 0 0 0-.405.764.672.597 0 0 0 .86.36.672.597 0 0 0 .404-.765.672.597 0 0 0-.158-.22l.902-1.642a.672.597 0 0 0 .293-.03.672.597 0 0 0 .213-.112c.348.146.633.265.838.366.308.152.417.253.45.365.033.11-.003.322-.177.694-.13.277-.345.67-.599 1.133a.672.597 0 0 0-.251.038.672.597 0 0 0-.405.764.672.597 0 0 0 .86.36.672.597 0 0 0 .404-.764.672.597 0 0 0-.137-.202c.251-.458.467-.852.606-1.148.188-.402.286-.701.2-.99-.086-.289-.35-.477-.7-.65-.23-.113-.517-.233-.86-.377a.672.597 0 0 0-.038-.239.672.597 0 0 0-.145-.209l.528-.963 2.924 1.263c.528.229.746.79.49 1.26l-2.01 3.68c-.257.469-.888.663-1.416.435l-4.137-1.788c-.528-.228-.747-.79-.49-1.26l2.01-3.679c.176-.323.53-.515.905-.53h.064z"/></svg>
+      </a>
       
       
       
@@ -2427,34 +2611,6 @@ document.addEventListener('DOMContentLoaded', function () {
 </main>
 
 
-<aside class="single__side main-side">
-  
-
-
-<section class="sidebar hide">
-  <script>document.querySelector('.sidebar').classList.remove('hide')</script>
-  <div class="toc__flexbox" data-position="fixed">
-    <h6 class="toc__title" data-ani="true">目录</h6>
-    
-      <label class="switch" data-ani="true">
-        <input id="toggle-toc" aria-label="Toggle TOC" type="checkbox" checked>
-        <span class="slider round"></span>
-      </label>
-    
-  </div>
-  <div class="toc " data-dir="ltr" data-folding="true" data-ani="true">
-    <nav id="TableOfContents">
-  <ul>
-    <li><a href="#2zzo-主题">2.zzo 主题</a></li>
-  </ul>
-</nav>
-  </div>
-</section>
-
-
-
-</aside>
-
 <script>
   
   
@@ -2462,7 +2618,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   var enableToc = JSON.parse("true");
   var toc = JSON.parse("false");
-  var tocPosition = JSON.parse("\"inner\"");
+  var tocPosition = JSON.parse("\"outer\"");
   
   var singleMainElem = document.querySelector('.single__main');
   var singleSideElem = document.querySelector('.single__side');
@@ -3110,7 +3266,7 @@ document.addEventListener('DOMContentLoaded', function () {
         
           
             
-              <a href="https://liqiangxo.one/zh/coder/hugo/" data-lang="zh" class="dropdown-item is-active">中文</a>
+              <a href="https://liqiangxo.one/zh/coder/hugo/" data-lang="zh" class="dropdown-item is-active">中国话</a>
             
           
         
@@ -3154,6 +3310,10 @@ document.addEventListener('DOMContentLoaded', function () {
       </a>
             
     
+      
+      <a href="https://gitee.com/liqiangxo" title="gitea" aria-label="gitea">
+        <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="32" height="32"><path fill="currentColor" d="M4.186 5.421C2.341 5.417-.13 6.59.006 9.531c.213 4.594 4.92 5.02 6.801 5.057.206.862 2.42 3.834 4.059 3.99h7.18c4.306-.286 7.53-13.022 5.14-13.07-3.953.186-6.296.28-8.305.296v3.975l-.626-.277-.004-3.696c-2.306-.001-4.336-.108-8.189-.298-.482-.003-1.154-.085-1.876-.087zm.261 1.625h.22c.262 2.355.688 3.732 1.55 5.836-2.2-.26-4.072-.899-4.416-3.285-.178-1.235.422-2.524 2.646-2.552zm8.557 2.315c.15.002.303.03.447.096l.749.323-.537.979a.672.597 0 0 0-.241.038.672.597 0 0 0-.405.764.672.597 0 0 0 .112.174l-.926 1.686a.672.597 0 0 0-.222.038.672.597 0 0 0-.405.764.672.597 0 0 0 .86.36.672.597 0 0 0 .404-.765.672.597 0 0 0-.158-.22l.902-1.642a.672.597 0 0 0 .293-.03.672.597 0 0 0 .213-.112c.348.146.633.265.838.366.308.152.417.253.45.365.033.11-.003.322-.177.694-.13.277-.345.67-.599 1.133a.672.597 0 0 0-.251.038.672.597 0 0 0-.405.764.672.597 0 0 0 .86.36.672.597 0 0 0 .404-.764.672.597 0 0 0-.137-.202c.251-.458.467-.852.606-1.148.188-.402.286-.701.2-.99-.086-.289-.35-.477-.7-.65-.23-.113-.517-.233-.86-.377a.672.597 0 0 0-.038-.239.672.597 0 0 0-.145-.209l.528-.963 2.924 1.263c.528.229.746.79.49 1.26l-2.01 3.68c-.257.469-.888.663-1.416.435l-4.137-1.788c-.528-.228-.747-.79-.49-1.26l2.01-3.679c.176-.323.53-.515.905-.53h.064z"/></svg>
+      </a>
             
     
       
@@ -3305,6 +3465,48 @@ document.addEventListener('DOMContentLoaded', function () {
 
 <div class="wrapper__right hide" data-pad="true" dir="ltr">
   <script>document.querySelector('.wrapper__right').classList.remove('hide')</script>
+  
+    
+      
+        <div class="toc__flexbox--outer" data-position="fixed" data-dir="ltr" data-ani="true">
+          <h6 class="toc__title toc__title--outer" data-ani="true">目录</h6>
+          
+          <label class="switch" data-ani="true">
+            <input id="visible-toc" aria-label="Visible TOC" type="checkbox" checked>
+            <span class="slider round"></span>
+          </label>
+          
+        </div>
+        <div class="toc toc__outer " data-dir="ltr" data-folding="true" data-ani="true">
+          <nav id="TableOfContents">
+  <ul>
+    <li><a href="#2zzo-主题">2.zzo 主题</a></li>
+    <li><a href="#2loveit-主题">2.LoveIt 主题</a></li>
+  </ul>
+
+  <ul>
+    <li><a href="#主题预览httpshugoloveitcomzh-cn">主题<a href="https://hugoloveit.com/zh-cn/">预览</a></a></li>
+    <li><a href="#为什么选择-loveit">为什么选择 LoveIt</a></li>
+    <li><a href="#特性">特性</a>
+      <ul>
+        <li><a href="#性能和-seo">性能和 SEO</a></li>
+        <li><a href="#外观和布局">外观和布局</a></li>
+        <li><a href="#社交和评论系统">社交和评论系统</a></li>
+        <li><a href="#扩展功能">扩展功能</a></li>
+      </ul>
+    </li>
+    <li><a href="#文档httpshugoloveitcomzh-cncategoriesdocumentation"><a href="https://hugoloveit.com/zh-cn/categories/documentation/">文档</a></a></li>
+    <li><a href="#多语言和国际化">多语言和国际化</a></li>
+    <li><a href="#路线图httpsgithubcomdillonzqloveitprojects1"><a href="https://github.com/dillonzq/LoveIt/projects/1">路线图</a></a></li>
+    <li><a href="#问题想法-bugs-和-prs">问题、想法、 bugs 和 PRs</a></li>
+    <li><a href="#许可协议">许可协议</a></li>
+    <li><a href="#作者">作者</a></li>
+    <li><a href="#赞助支持">赞助支持</a></li>
+  </ul>
+</nav>
+        </div>
+      
+    
   
 </div>
 
