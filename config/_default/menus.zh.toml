@@ -18,35 +18,28 @@
 
     
 [[main]]
-  identifier = "data"
-  name = "日记本"
-  url = "data"
+  identifier = "blog"
+  name = "文字"
+  url = "blog"
   weight = 4
 
 [[main]]
   identifier = "coder"
-  name = "码人生"
+  name = "代码"
   url = "coder"
   weight = 5
 
 [[main]]
-  identifier = "contact"
-  name = "联系"
-  url = "contact"
+  identifier = "gz"
+  name = "规则"
+  url = "gz"
   weight = 6
-
-
-[[main]]
-  identifier = "showcase"
-  name = "链接"
-  url = "showcase"
-  weight = 8
 
 [[main]]
   identifier = "gallery"
   name = "画廊"
   url = "gallery"
-  weight = 9
+  weight = 7
 
 [[main]]
   parent = "gallery"
@@ -57,3 +50,16 @@
   parent = "gallery"
   name = "照片"
   url = "gallery/photo"
+
+[[main]]
+  identifier = "contact"
+  name = "联系"
+  url = "contact"
+  weight = 8
+
+
+[[main]]
+  identifier = "showcase"
+  name = "链接"
+  url = "showcase"
+  weight = 9
