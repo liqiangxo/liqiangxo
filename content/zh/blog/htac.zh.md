@@ -4,7 +4,7 @@ date: 2020-09-04T19:45:07+08:00
 description:
 author: "liqiangxo"
 authorEmoji: 🤖
-pinned: true # appreared on a overview page.
+pinned: false # appreared on a overview page.
 authorImage: "/images/whoami/avatar.jpg" # 静态文件夹中的图像路径
 authorImageUrl: "" # 您的图像url。我们首先使用“authorImageUrl”。如果未设置，则使用“authorImage”。
 authorDesc: "test" # 作者描述
