@@ -23,36 +23,30 @@
 
       
       <item>
-        <title>Test</title>
-        <link>https://www.liqiangxo.one/zh/coder/test/</link>
-        <pubDate>Fri, 21 Aug 2020 13:23:01 +0800</pubDate>
+        <title>android studio导入eclipse项目</title>
+        <link>https://www.liqiangxo.one/zh/coder/asimporteclipse/</link>
+        <pubDate>Wed, 02 Sep 2020 16:45:20 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
-        <atom:modified>Wed, 26 Aug 2020 22:26:00 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/test/</guid>
-        <description>test0 test1 test2 test3 Write the press release Update the website Contact the media Syntax Description Header Title Paragraph Text Here&amp;rsquo;s a sentence with a footnote. 1 My Great Heading term definition The world is flat. Ctrl + 1 在 pre 元素中的文本 宽度的显示与文本的宽度一样， 保留了 空 格 和 换行。</description>
+        <atom:modified>Wed, 02 Sep 2020 17:03:29 +0800</atom:modified>
+        <guid>https://www.liqiangxo.one/zh/coder/asimporteclipse/</guid>
+        <description>第一步 报错 Error: Your project contains C++ files but it is not using a supported native build system. Consider using CMake or ndk-build integration with the stable Android Gradle plugin: https://developer.android.com/studio/projects/add-native-code.html or use the&amp;hellip; 【解决链接】Error:YourprojectcontainsC+</description>
         
-        <dc:creator>李强</dc:creator>
+        <dc:creator>liqiangxo</dc:creator>
         
         
         
         
           
-            
-              <category>test</category>
             
           
         
         
           
             
-              <category>asdf2</category>
-            
           
         
         
           
-            
-              <category>asdf1</category>
             
           
         
@@ -895,30 +889,6 @@
       </item>
       
       <item>
-        <title>装修</title>
-        <link>https://www.liqiangxo.one/zh/coder/%E8%A3%85%E4%BF%AE/</link>
-        <pubDate>Fri, 17 Jul 2020 00:34:22 +0800</pubDate>
-        <author>liqiangxoxo@gmail.com (liqiang)</author>
-        <atom:modified>Fri, 17 Jul 2020 00:34:22 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/%E8%A3%85%E4%BF%AE/</guid>
-        <description>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70</description>
-        
-        <dc:creator>liqiang</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>decoratehouse</category>
-            
-          
-        
-        
-        
-      </item>
-      
-      <item>
         <title>Gulp</title>
         <link>https://www.liqiangxo.one/zh/coder/hilo/gulp/</link>
         <pubDate>Mon, 13 Jul 2020 13:32:05 +0800</pubDate>
@@ -1071,7 +1041,7 @@
         <link>https://www.liqiangxo.one/zh/coder/link/</link>
         <pubDate>Thu, 25 Jun 2020 17:28:15 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
-        <atom:modified>Thu, 30 Jul 2020 19:18:07 +0800</atom:modified>
+        <atom:modified>Fri, 04 Sep 2020 20:12:40 +0800</atom:modified>
         <guid>https://www.liqiangxo.one/zh/coder/link/</guid>
         <description>今天遇到一个问题，就是为了不影响线上玩家，把我们的 gm 目录分成了两个 svn，线上 web 目录和 gmweb 目录。 但是存在一个问题，就是线上和后台可能遇到修改和</description>
         
