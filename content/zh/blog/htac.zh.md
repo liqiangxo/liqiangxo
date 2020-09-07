@@ -30,4 +30,4 @@ image:
 
 “人们保持坚定自我很难，正是因为不安，才会说出“我相信”这种话”
 
-<iframe src="//player.bilibili.com/player.html?aid=499447514&bvid=BV19K411N7nc&cid=231998363&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800px" height="600px"> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=499447514&bvid=BV19K411N7nc&cid=231998363&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="760px" height="560px"> </iframe>
