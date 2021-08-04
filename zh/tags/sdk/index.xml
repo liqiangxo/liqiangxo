@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>sdk on 咻咻咻</title>
-    <link>https://www.liqiangxo.one/zh/tags/sdk/</link>
+    <link>https://liqiangxo.github.io/liqiangxo/zh/tags/sdk/</link>
     <description>Recent content in sdk on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 28 Jun 2020 16:32:22 +0800</lastBuildDate>
     
-        <atom:link href="https://www.liqiangxo.one/zh/tags/sdk/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://liqiangxo.github.io/liqiangxo/zh/tags/sdk/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Coder test</title>
-        <link>https://www.liqiangxo.one/zh/coder/rich-text/</link>
+        <link>https://liqiangxo.github.io/liqiangxo/zh/coder/rich-text/</link>
         <pubDate>Sun, 28 Jun 2020 16:32:22 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Thu, 30 Jul 2020 19:18:07 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/rich-text/</guid>
+        <guid>https://liqiangxo.github.io/liqiangxo/zh/coder/rich-text/</guid>
         <description>首先看接入流程帮助文档 下载sdk 下载demo 更具api直接把自己需要的从demo里面拿过来 腾讯语音sdk的接入 环境:cocos2d-lua 3.13,mac10.11.6,xcode8.2.1,</description>
         
         <dc:creator>liqiang</dc:creator>

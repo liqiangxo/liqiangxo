@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>计算机视觉 on 咻咻咻</title>
-    <link>https://www.liqiangxo.one/zh/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</link>
+    <link>https://liqiangxo.github.io/liqiangxo/zh/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/</link>
     <description>Recent content in 计算机视觉 on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 17 Aug 2020 23:50:10 +0800</lastBuildDate>
     
-        <atom:link href="https://www.liqiangxo.one/zh/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://liqiangxo.github.io/liqiangxo/zh/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>第七章：屈桢深-换个角度看世界：计算机视觉入门必看！</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_seven/</link>
+        <link>https://liqiangxo.github.io/liqiangxo/zh/coder/csdn/gyzb/gyzb_seven/</link>
         <pubDate>Mon, 17 Aug 2020 23:50:10 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_seven/</guid>
+        <guid>https://liqiangxo.github.io/liqiangxo/zh/coder/csdn/gyzb/gyzb_seven/</guid>
         <description>第七章：屈桢深-换个角度看世界：计算机视觉入门必看！ 我们要学什么? 环境搭建: Python + OpenCV 1.安装Anaconda 2.安装OpenCV 3.测试程序,</description>
         
         <dc:creator>liqiang</dc:creator>

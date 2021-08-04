@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>产品 on 咻咻咻</title>
-    <link>https://www.liqiangxo.one/zh/tags/%E4%BA%A7%E5%93%81/</link>
+    <link>https://liqiangxo.github.io/liqiangxo/zh/tags/%E4%BA%A7%E5%93%81/</link>
     <description>Recent content in 产品 on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Thu, 20 Aug 2020 23:02:37 +0800</lastBuildDate>
     
-        <atom:link href="https://www.liqiangxo.one/zh/tags/%E4%BA%A7%E5%93%81/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://liqiangxo.github.io/liqiangxo/zh/tags/%E4%BA%A7%E5%93%81/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>冯骥语录-产品</title>
-        <link>https://www.liqiangxo.one/zh/blog/data20200820/</link>
+        <link>https://liqiangxo.github.io/liqiangxo/zh/blog/data20200820/</link>
         <pubDate>Thu, 20 Aug 2020 23:02:37 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Mon, 07 Sep 2020 00:33:50 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/blog/data20200820/</guid>
+        <guid>https://liqiangxo.github.io/liqiangxo/zh/blog/data20200820/</guid>
         <description>芒格说过，永远不要兜售自己不用的产品。人起码要对自己诚实，而对内容工作者而言，这种分裂也是一种对用户的不负责——虽然可以用数据辅助决策，但绝</description>
         
         <dc:creator>liqiang</dc:creator>

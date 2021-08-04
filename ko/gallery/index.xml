@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Galleries on 이강</title>
-    <link>https://www.liqiangxo.one/ko/gallery/</link>
+    <link>https://liqiangxo.github.io/liqiangxo/ko/gallery/</link>
     <description>Recent content in Galleries on 이강</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 12 Oct 2018 10:20:16 +0900</lastBuildDate>
     
-        <atom:link href="https://www.liqiangxo.one/ko/gallery/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://liqiangxo.github.io/liqiangxo/ko/gallery/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Photo</title>
-        <link>https://www.liqiangxo.one/ko/gallery/photo/</link>
+        <link>https://liqiangxo.github.io/liqiangxo/ko/gallery/photo/</link>
         <pubDate>Fri, 12 Oct 2018 10:20:16 +0900</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Thu, 30 Jul 2020 19:07:03 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/ko/gallery/photo/</guid>
+        <guid>https://liqiangxo.github.io/liqiangxo/ko/gallery/photo/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>Cartoon</title>
-        <link>https://www.liqiangxo.one/ko/gallery/cartoon/</link>
+        <link>https://liqiangxo.github.io/liqiangxo/ko/gallery/cartoon/</link>
         <pubDate>Thu, 11 Oct 2018 10:20:16 +0900</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Thu, 30 Jul 2020 19:07:03 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/ko/gallery/cartoon/</guid>
+        <guid>https://liqiangxo.github.io/liqiangxo/ko/gallery/cartoon/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>

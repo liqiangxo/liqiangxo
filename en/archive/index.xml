@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Archive on LQ</title>
-    <link>https://www.liqiangxo.one/en/archive/</link>
+    <link>https://liqiangxo.github.io/liqiangxo/en/archive/</link>
     <description>Recent content in Archive on LQ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     
-        <atom:link href="https://www.liqiangxo.one/en/archive/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://liqiangxo.github.io/liqiangxo/en/archive/index.xml" rel="self" type="application/rss+xml" />
     
     
     
