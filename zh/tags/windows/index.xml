@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>windows on 咻咻咻</title>
-    <link>https://liqiangxo.github.io/liqiangxo/zh/tags/windows/</link>
+    <link>https://www.liqiangxo.one/zh/tags/windows/</link>
     <description>Recent content in windows on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Tue, 18 Aug 2020 22:34:41 +0800</lastBuildDate>
     
-        <atom:link href="https://liqiangxo.github.io/liqiangxo/zh/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.liqiangxo.one/zh/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>windows 退出硬盘总是被占用的问题</title>
-        <link>https://liqiangxo.github.io/liqiangxo/zh/coder/baidu/checkdisk/</link>
+        <link>https://www.liqiangxo.one/zh/coder/baidu/checkdisk/</link>
         <pubDate>Tue, 18 Aug 2020 22:34:41 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://liqiangxo.github.io/liqiangxo/zh/coder/baidu/checkdisk/</guid>
+        <guid>https://www.liqiangxo.one/zh/coder/baidu/checkdisk/</guid>
         <description>1.打开任务管理器 2.找到资源监视器 3.找到cpu选项卡 4.下面有个关联 5.在关联的句柄输入被占用的文件夹/文件名/卷标 https://blog.csdn.net/shida_csdn/article/details/91573208</description>
         
         <dc:creator>liqiang</dc:creator>

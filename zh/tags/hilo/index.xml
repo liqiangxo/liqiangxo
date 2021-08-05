@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hilo on 咻咻咻</title>
-    <link>https://liqiangxo.github.io/liqiangxo/zh/tags/hilo/</link>
+    <link>https://www.liqiangxo.one/zh/tags/hilo/</link>
     <description>Recent content in Hilo on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 06 Jul 2020 23:34:50 +0800</lastBuildDate>
     
-        <atom:link href="https://liqiangxo.github.io/liqiangxo/zh/tags/hilo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.liqiangxo.one/zh/tags/hilo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Hilo</title>
-        <link>https://liqiangxo.github.io/liqiangxo/zh/coder/hilo/</link>
+        <link>https://www.liqiangxo.one/zh/coder/hilo/</link>
         <pubDate>Mon, 06 Jul 2020 23:34:50 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Thu, 30 Jul 2020 19:18:07 +0800</atom:modified>
-        <guid>https://liqiangxo.github.io/liqiangxo/zh/coder/hilo/</guid>
+        <guid>https://www.liqiangxo.one/zh/coder/hilo/</guid>
         <description>本文用于记录在hilo学习过程 1.根据hilo文档搭建环境 2.遇到没有npm 就去百度怎么npm 然后装node等等 3.有了npm 终于开始了np</description>
         
         <dc:creator>liqiang</dc:creator>

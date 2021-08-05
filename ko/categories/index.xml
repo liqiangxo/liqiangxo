@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on 이강</title>
-    <link>https://liqiangxo.github.io/liqiangxo/ko/categories/</link>
+    <link>https://www.liqiangxo.one/ko/categories/</link>
     <description>Recent content in Categories on 이강</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ko</language>
@@ -15,7 +15,7 @@
     <webMaster>liqiangxoxo@gmail.com (liqiang)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     
-        <atom:link href="https://liqiangxo.github.io/liqiangxo/ko/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.liqiangxo.one/ko/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     

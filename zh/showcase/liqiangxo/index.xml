@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Liqiangxo on 咻咻咻</title>
-    <link>https://liqiangxo.github.io/liqiangxo/zh/showcase/liqiangxo/</link>
+    <link>https://www.liqiangxo.one/zh/showcase/liqiangxo/</link>
     <description>Recent content in Liqiangxo on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Fri, 21 Aug 2020 23:57:08 +0800</lastBuildDate>
     
-        <atom:link href="https://liqiangxo.github.io/liqiangxo/zh/showcase/liqiangxo/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.liqiangxo.one/zh/showcase/liqiangxo/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>language</title>
-        <link>https://liqiangxo.github.io/liqiangxo/zh/showcase/liqiangxo/language/</link>
+        <link>https://www.liqiangxo.one/zh/showcase/liqiangxo/language/</link>
         <pubDate>Fri, 21 Aug 2020 23:58:29 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Sat, 22 Aug 2020 23:07:40 +0800</atom:modified>
-        <guid>https://liqiangxo.github.io/liqiangxo/zh/showcase/liqiangxo/language/</guid>
+        <guid>https://www.liqiangxo.one/zh/showcase/liqiangxo/language/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>
@@ -42,11 +42,11 @@
       
       <item>
         <title>liqiangxo</title>
-        <link>https://liqiangxo.github.io/liqiangxo/zh/showcase/liqiangxo/liqiangxo/</link>
+        <link>https://www.liqiangxo.one/zh/showcase/liqiangxo/liqiangxo/</link>
         <pubDate>Fri, 21 Aug 2020 23:58:29 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Sat, 22 Aug 2020 23:00:10 +0800</atom:modified>
-        <guid>https://liqiangxo.github.io/liqiangxo/zh/showcase/liqiangxo/liqiangxo/</guid>
+        <guid>https://www.liqiangxo.one/zh/showcase/liqiangxo/liqiangxo/</guid>
         <description></description>
         
         <dc:creator>liqiang</dc:creator>

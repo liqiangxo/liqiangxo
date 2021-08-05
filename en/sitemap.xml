@@ -3,707 +3,707 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/showcase/hugo/hugo-theme-zzo/</loc>
+    <loc>https://www.liqiangxo.one/en/showcase/hugo/hugo-theme-zzo/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/showcase/hugo/hugo-theme-zdoc/</loc>
+    <loc>https://www.liqiangxo.one/en/showcase/hugo/hugo-theme-zdoc/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/hugo/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/hugo/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/tags/hugo/"
+                href="https://www.liqiangxo.one/zh/tags/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/tags/hugo/"
+                href="https://www.liqiangxo.one/en/tags/hugo/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_config/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_config/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_config_mounts/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_config_mounts/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_convert/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_convert/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_convert_tojson/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_convert_tojson/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_convert_totoml/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_convert_totoml/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_convert_toyaml/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_convert_toyaml/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_deploy/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_deploy/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_env/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_env/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_gen/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_gen/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_gen_autocomplete/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_gen_autocomplete/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_gen_chromastyles/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_gen_chromastyles/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_gen_doc/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_gen_doc/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_gen_man/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_gen_man/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_import/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_import/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_import_jekyll/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_import_jekyll/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_list/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_list/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_list_all/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_list_all/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_list_drafts/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_list_drafts/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_list_expired/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_list_expired/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_list_future/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_list_future/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_mod/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_mod/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_mod_clean/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_mod_clean/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_mod_get/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_mod_get/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_mod_graph/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_mod_graph/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_mod_init/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_mod_init/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_mod_tidy/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_mod_tidy/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_mod_vendor/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_mod_vendor/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_mod_verify/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_mod_verify/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_new/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_new/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_new_site/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_new_site/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_new_theme/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_new_theme/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_server/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_server/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/commands/hugo_version/</loc>
+    <loc>https://www.liqiangxo.one/commands/hugo_version/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/hugodoc/</loc>
+    <loc>https://www.liqiangxo.one/en/hugodoc/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/</loc>
     <lastmod>2020-08-27T17:29:45+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/tags/"
+                href="https://www.liqiangxo.one/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://liqiangxo.github.io/liqiangxo/ko/tags/"
+                href="https://www.liqiangxo.one/ko/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/tags/"
+                href="https://www.liqiangxo.one/en/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/publication/article/</loc>
+    <loc>https://www.liqiangxo.one/en/publication/article/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/publication/book/</loc>
+    <loc>https://www.liqiangxo.one/en/publication/book/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/publication/misc/</loc>
+    <loc>https://www.liqiangxo.one/en/publication/misc/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/publication/</loc>
+    <loc>https://www.liqiangxo.one/en/publication/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/shortcode/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/shortcode/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/posts/shortcodes/</loc>
+    <loc>https://www.liqiangxo.one/en/posts/shortcodes/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/showcase/hugo/</loc>
+    <loc>https://www.liqiangxo.one/en/showcase/hugo/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/showcase/</loc>
+    <loc>https://www.liqiangxo.one/en/showcase/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/showcase/"
+                href="https://www.liqiangxo.one/zh/showcase/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/showcase/"
+                href="https://www.liqiangxo.one/en/showcase/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/categories/</loc>
+    <loc>https://www.liqiangxo.one/en/categories/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/categories/"
+                href="https://www.liqiangxo.one/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://liqiangxo.github.io/liqiangxo/ko/categories/"
+                href="https://www.liqiangxo.one/ko/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/categories/"
+                href="https://www.liqiangxo.one/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/css/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/css/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/html/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/html/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/markdown/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/markdown/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/posts/markdown-syntax/</loc>
+    <loc>https://www.liqiangxo.one/en/posts/markdown-syntax/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/series/</loc>
+    <loc>https://www.liqiangxo.one/en/series/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/series/"
+                href="https://www.liqiangxo.one/zh/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://liqiangxo.github.io/liqiangxo/ko/series/"
+                href="https://www.liqiangxo.one/ko/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/series/"
+                href="https://www.liqiangxo.one/en/series/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/categories/syntax/</loc>
+    <loc>https://www.liqiangxo.one/en/categories/syntax/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/themes/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/themes/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/categories/themes/</loc>
+    <loc>https://www.liqiangxo.one/en/categories/themes/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/series/themes-guide/</loc>
+    <loc>https://www.liqiangxo.one/en/series/themes-guide/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/privacy/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/privacy/</loc>
     <lastmod>2020-08-05T00:24:13+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/posts/rich-content/</loc>
+    <loc>https://www.liqiangxo.one/en/posts/rich-content/</loc>
     <lastmod>2020-08-05T00:24:13+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/shortcodes/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/shortcodes/</loc>
     <lastmod>2020-08-05T00:24:13+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/categories/hugo/</loc>
+    <loc>https://www.liqiangxo.one/en/categories/hugo/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/posts/syntax-highlight/</loc>
+    <loc>https://www.liqiangxo.one/en/posts/syntax-highlight/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/posts/math-typesetting/</loc>
+    <loc>https://www.liqiangxo.one/en/posts/math-typesetting/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/amoji/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/amoji/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/bamoji/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/bamoji/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/emoji/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/emoji/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/posts/emoji-support/</loc>
+    <loc>https://www.liqiangxo.one/en/posts/emoji-support/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/gamoji/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/gamoji/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/namoji/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/namoji/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/categories/diagram/</loc>
+    <loc>https://www.liqiangxo.one/en/categories/diagram/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/posts/test-viz/</loc>
+    <loc>https://www.liqiangxo.one/en/posts/test-viz/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/posts/test-wavedrom/</loc>
+    <loc>https://www.liqiangxo.one/en/posts/test-wavedrom/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/posts/test-chartjs/</loc>
+    <loc>https://www.liqiangxo.one/en/posts/test-chartjs/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/posts/test-js-sequence-diagrams/</loc>
+    <loc>https://www.liqiangxo.one/en/posts/test-js-sequence-diagrams/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/diagram/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/diagram/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/posts/test-mermaid/</loc>
+    <loc>https://www.liqiangxo.one/en/posts/test-mermaid/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/categories/math/</loc>
+    <loc>https://www.liqiangxo.one/en/categories/math/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/posts/test-mathjax/</loc>
+    <loc>https://www.liqiangxo.one/en/posts/test-mathjax/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/posts/test-katex/</loc>
+    <loc>https://www.liqiangxo.one/en/posts/test-katex/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/posts/test-flowchart/</loc>
+    <loc>https://www.liqiangxo.one/en/posts/test-flowchart/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/gallery/cartoon/</loc>
+    <loc>https://www.liqiangxo.one/en/gallery/cartoon/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/gallery/cartoon/"
+                href="https://www.liqiangxo.one/zh/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://liqiangxo.github.io/liqiangxo/ko/gallery/cartoon/"
+                href="https://www.liqiangxo.one/ko/gallery/cartoon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/gallery/cartoon/"
+                href="https://www.liqiangxo.one/en/gallery/cartoon/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/gallery/</loc>
+    <loc>https://www.liqiangxo.one/en/gallery/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/gallery/"
+                href="https://www.liqiangxo.one/zh/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://liqiangxo.github.io/liqiangxo/ko/gallery/"
+                href="https://www.liqiangxo.one/ko/gallery/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/gallery/"
+                href="https://www.liqiangxo.one/en/gallery/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/gallery/photo/</loc>
+    <loc>https://www.liqiangxo.one/en/gallery/photo/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/gallery/photo/"
+                href="https://www.liqiangxo.one/zh/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://liqiangxo.github.io/liqiangxo/ko/gallery/photo/"
+                href="https://www.liqiangxo.one/ko/gallery/photo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/gallery/photo/"
+                href="https://www.liqiangxo.one/en/gallery/photo/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/presentation/dir/fourth/</loc>
+    <loc>https://www.liqiangxo.one/en/presentation/dir/fourth/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/presentation/dir/fourth/"
+                href="https://www.liqiangxo.one/zh/presentation/dir/fourth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/presentation/dir/fourth/"
+                href="https://www.liqiangxo.one/en/presentation/dir/fourth/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/presentation/third/</loc>
+    <loc>https://www.liqiangxo.one/en/presentation/third/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/presentation/third/"
+                href="https://www.liqiangxo.one/zh/presentation/third/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/presentation/third/"
+                href="https://www.liqiangxo.one/en/presentation/third/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/presentation/second/</loc>
+    <loc>https://www.liqiangxo.one/en/presentation/second/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/presentation/second/"
+                href="https://www.liqiangxo.one/zh/presentation/second/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/presentation/second/"
+                href="https://www.liqiangxo.one/en/presentation/second/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/presentation/first/</loc>
+    <loc>https://www.liqiangxo.one/en/presentation/first/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/presentation/first/"
+                href="https://www.liqiangxo.one/zh/presentation/first/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/presentation/first/"
+                href="https://www.liqiangxo.one/en/presentation/first/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/archive/</loc>
+    <loc>https://www.liqiangxo.one/en/archive/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/archive/"
+                href="https://www.liqiangxo.one/zh/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://liqiangxo.github.io/liqiangxo/ko/archive/"
+                href="https://www.liqiangxo.one/ko/archive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/archive/"
+                href="https://www.liqiangxo.one/en/archive/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/about/</loc>
+    <loc>https://www.liqiangxo.one/en/about/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/about/"
+                href="https://www.liqiangxo.one/zh/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://liqiangxo.github.io/liqiangxo/ko/about/"
+                href="https://www.liqiangxo.one/ko/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/about/"
+                href="https://www.liqiangxo.one/en/about/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/publication/article/article_any_folder_name_1/</loc>
+    <loc>https://www.liqiangxo.one/en/publication/article/article_any_folder_name_1/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/publication/book/book_any_folder_name_1/</loc>
+    <loc>https://www.liqiangxo.one/en/publication/book/book_any_folder_name_1/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/publication/misc/misc_any_folder_name_1/</loc>
+    <loc>https://www.liqiangxo.one/en/publication/misc/misc_any_folder_name_1/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/</loc>
+    <loc>https://www.liqiangxo.one/en/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/"
+                href="https://www.liqiangxo.one/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://liqiangxo.github.io/liqiangxo/ko/"
+                href="https://www.liqiangxo.one/ko/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/"
+                href="https://www.liqiangxo.one/en/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/tags/index/</loc>
+    <loc>https://www.liqiangxo.one/en/tags/index/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://liqiangxo.github.io/liqiangxo/ko/tags/index/"
+                href="https://www.liqiangxo.one/ko/tags/index/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/tags/index/"
+                href="https://www.liqiangxo.one/en/tags/index/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/posts/</loc>
+    <loc>https://www.liqiangxo.one/en/posts/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="https://liqiangxo.github.io/liqiangxo/ko/posts/"
+                href="https://www.liqiangxo.one/ko/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/posts/"
+                href="https://www.liqiangxo.one/en/posts/"
                 />
   </url>
   
   <url>
-    <loc>https://liqiangxo.github.io/liqiangxo/en/presentation/</loc>
+    <loc>https://www.liqiangxo.one/en/presentation/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://liqiangxo.github.io/liqiangxo/zh/presentation/"
+                href="https://www.liqiangxo.one/zh/presentation/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://liqiangxo.github.io/liqiangxo/en/presentation/"
+                href="https://www.liqiangxo.one/en/presentation/"
                 />
   </url>
   
