@@ -13,7 +13,7 @@ hugo server --theme=codex --buildDrafts
 
 # 发布
 ```sh
-hugo --baseUrl="https://www.liqiangxo.one/"
+hugo --baseUrl="https://liqiangxo.top/"
 ```
 
 
