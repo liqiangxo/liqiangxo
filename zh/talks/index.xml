@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Talks on 咻咻咻</title>
-    <link>https://www.liqiangxo.one/zh/talks/</link>
+    <link>https://liqiangxo.top/zh/talks/</link>
     <description>Recent content in Talks on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 30 Dec 2019 11:14:14 +0900</lastBuildDate>
     
-        <atom:link href="https://www.liqiangxo.one/zh/talks/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://liqiangxo.top/zh/talks/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>Liqiangxo</title>
-        <link>https://www.liqiangxo.one/zh/talks/liqiangxo/</link>
+        <link>https://liqiangxo.top/zh/talks/liqiangxo/</link>
         <pubDate>Fri, 21 Aug 2020 23:44:01 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Sat, 22 Aug 2020 00:45:44 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/talks/liqiangxo/</guid>
+        <guid>https://liqiangxo.top/zh/talks/liqiangxo/</guid>
         <description></description>
         
         <dc:creator>liqiangxo</dc:creator>

@@ -7,7 +7,7 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>码人生 on 咻咻咻</title>
-    <link>https://www.liqiangxo.one/zh/coder/</link>
+    <link>https://liqiangxo.top/zh/coder/</link>
     <description>Recent content in 码人生 on 咻咻咻</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 19 Oct 2019 11:44:14 +0900</lastBuildDate>
     
-        <atom:link href="https://www.liqiangxo.one/zh/coder/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://liqiangxo.top/zh/coder/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -24,11 +24,11 @@
       
       <item>
         <title>android studio导入eclipse项目</title>
-        <link>https://www.liqiangxo.one/zh/coder/asimporteclipse/</link>
+        <link>https://liqiangxo.top/zh/coder/asimporteclipse/</link>
         <pubDate>Wed, 02 Sep 2020 16:45:20 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 02 Sep 2020 17:03:29 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/asimporteclipse/</guid>
+        <guid>https://liqiangxo.top/zh/coder/asimporteclipse/</guid>
         <description>第一步 报错 Error: Your project contains C++ files but it is not using a supported native build system. Consider using CMake or ndk-build integration with the stable Android Gradle plugin: https://developer.android.com/studio/projects/add-native-code.html or use the&amp;hellip; 【解决链接】Error:YourprojectcontainsC+</description>
         
         <dc:creator>liqiangxo</dc:creator>
@@ -54,11 +54,11 @@
       
       <item>
         <title>本hugo博客配置使用说明</title>
-        <link>https://www.liqiangxo.one/zh/coder/hugohelp/</link>
+        <link>https://liqiangxo.top/zh/coder/hugohelp/</link>
         <pubDate>Tue, 18 Aug 2020 23:49:11 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Sat, 22 Aug 2020 00:45:44 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/hugohelp/</guid>
+        <guid>https://liqiangxo.top/zh/coder/hugohelp/</guid>
         <description>Zzo theme for Hugo - cn 2020-07-24 新功能 - [主标题中的类型写入程序] 我添加了新的主标题选项。现在，我们有5个选项-空，文本，图像，滑块和打字机按照以下步骤进行应</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -82,11 +82,11 @@
       
       <item>
         <title>python类型判断</title>
-        <link>https://www.liqiangxo.one/zh/coder/baidu/pythontype/</link>
+        <link>https://liqiangxo.top/zh/coder/baidu/pythontype/</link>
         <pubDate>Tue, 18 Aug 2020 23:27:40 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/baidu/pythontype/</guid>
+        <guid>https://liqiangxo.top/zh/coder/baidu/pythontype/</guid>
         <description>python的数据类型有：数字(int)、浮点(float)、字符串(str)，列表(list)、元组(tuple)、字典(dict)、集合</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -106,11 +106,11 @@
       
       <item>
         <title>qq空间克隆免费工具</title>
-        <link>https://www.liqiangxo.one/zh/coder/baidu/qqzoneclone/</link>
+        <link>https://liqiangxo.top/zh/coder/baidu/qqzoneclone/</link>
         <pubDate>Tue, 18 Aug 2020 22:48:55 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/baidu/qqzoneclone/</guid>
+        <guid>https://liqiangxo.top/zh/coder/baidu/qqzoneclone/</guid>
         <description>这个工具就是google插件 qq空间导出助手 可以直接导出 日志 说说 评论 相册。。。 导出结果会以本地网页的形式 不过我 导出时发现导出日志能导出 导出相</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -134,11 +134,11 @@
       
       <item>
         <title>windows 退出硬盘总是被占用的问题</title>
-        <link>https://www.liqiangxo.one/zh/coder/baidu/checkdisk/</link>
+        <link>https://liqiangxo.top/zh/coder/baidu/checkdisk/</link>
         <pubDate>Tue, 18 Aug 2020 22:34:41 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/baidu/checkdisk/</guid>
+        <guid>https://liqiangxo.top/zh/coder/baidu/checkdisk/</guid>
         <description>1.打开任务管理器 2.找到资源监视器 3.找到cpu选项卡 4.下面有个关联 5.在关联的句柄输入被占用的文件夹/文件名/卷标 https://blog.csdn.net/shida_csdn/article/details/91573208</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -162,11 +162,11 @@
       
       <item>
         <title>第六章：齐伟-小白如何学编程更轻松？大牛老师带你入门</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_six/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_six/</link>
         <pubDate>Mon, 17 Aug 2020 23:56:06 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_six/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_six/</guid>
         <description>第六章：齐伟-小白如何学编程更轻松？大牛老师带你入门</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -190,11 +190,11 @@
       
       <item>
         <title>第二十五章：张曾欢-Java企业技术实战-常用框架及单点登录</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty_five/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_twenty_five/</link>
         <pubDate>Mon, 17 Aug 2020 23:53:21 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty_five/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_twenty_five/</guid>
         <description>第二十五章：张曾欢-Java企业技术实战-常用框架及单点登录</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -218,11 +218,11 @@
       
       <item>
         <title>第二十四章：元宵-1小时精讲：python数据分析与金融量化</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty_four/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_twenty_four/</link>
         <pubDate>Mon, 17 Aug 2020 23:53:17 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty_four/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_twenty_four/</guid>
         <description>第二十四章：元宵-1小时精讲：python数据分析与金融量化</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -246,11 +246,11 @@
       
       <item>
         <title>第二十三章：易文星-1小时告诉你，电信企业如何玩转人工智能</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty_three/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_twenty_three/</link>
         <pubDate>Mon, 17 Aug 2020 23:53:12 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty_three/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_twenty_three/</guid>
         <description>第二十三章：易文星-1小时告诉你，电信企业如何玩转人工智能</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -274,11 +274,11 @@
       
       <item>
         <title>第二十二章：李康-大牛手把手教你：用Java搭建物资捐助平台</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty_two/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_twenty_two/</link>
         <pubDate>Mon, 17 Aug 2020 23:53:07 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty_two/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_twenty_two/</guid>
         <description>第二十二章：李康-大牛手把手教你：用Java搭建物资捐助平台</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -302,11 +302,11 @@
       
       <item>
         <title>第二十一章：Peter-技术小白第一课-数据挖掘</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty_one/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_twenty_one/</link>
         <pubDate>Mon, 17 Aug 2020 23:53:02 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty_one/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_twenty_one/</guid>
         <description>第二十一章：Peter-技术小白第一课-数据挖掘</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -330,11 +330,11 @@
       
       <item>
         <title>第二十章：李维山-1小时快速搭建网站应用-个人博客系统</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_twenty/</link>
         <pubDate>Mon, 17 Aug 2020 23:52:52 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twenty/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_twenty/</guid>
         <description>第二十章：李维山-1小时快速搭建网站应用-个人博客系统</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -358,11 +358,11 @@
       
       <item>
         <title>第十九章：张益新-1小时带你快速入门目标检测</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_nineteen/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_nineteen/</link>
         <pubDate>Mon, 17 Aug 2020 23:52:30 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Tue, 18 Aug 2020 00:05:57 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_nineteen/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_nineteen/</guid>
         <description>第十九章：张益新-1小时带你快速入门目标检测</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -382,11 +382,11 @@
       
       <item>
         <title>第十八章：王司徒-1小时讲透人工智能在医疗行业的应用</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_eighteen/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_eighteen/</link>
         <pubDate>Mon, 17 Aug 2020 23:52:23 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_eighteen/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_eighteen/</guid>
         <description>第十八章：王司徒-1小时讲透人工智能在医疗行业的应用</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -410,11 +410,11 @@
       
       <item>
         <title>第十七章：冯文凯-1小时带你快速入门java软件编程</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_seventeen/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_seventeen/</link>
         <pubDate>Mon, 17 Aug 2020 23:52:13 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_seventeen/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_seventeen/</guid>
         <description>第十七章：冯文凯-1小时带你快速入门java软件编程</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -438,11 +438,11 @@
       
       <item>
         <title>第十六章：夏吴-用1小时带你入门spring boot</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_sixteen/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_sixteen/</link>
         <pubDate>Mon, 17 Aug 2020 23:51:59 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_sixteen/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_sixteen/</guid>
         <description>第十六章：夏吴-用1小时带你入门spring boot</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -466,11 +466,11 @@
       
       <item>
         <title>第十五章：廖茂文-基于2019-nCoV新冠状病毒数据分析与可视化</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_fifteen/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_fifteen/</link>
         <pubDate>Mon, 17 Aug 2020 23:51:52 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_fifteen/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_fifteen/</guid>
         <description>第十五章：廖茂文-基于2019-nCoV新冠状病毒数据分析与可视化</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -498,11 +498,11 @@
       
       <item>
         <title>第十四章：丢哥-从0到1教你写一款高性能rpc框架</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_fourteen/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_fourteen/</link>
         <pubDate>Mon, 17 Aug 2020 23:51:37 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Tue, 18 Aug 2020 00:05:57 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_fourteen/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_fourteen/</guid>
         <description>第十四章：丢哥-从0到1教你写一款高性能rpc框架</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -522,11 +522,11 @@
       
       <item>
         <title>第十三章：卢召伟-Flutter之商用项目实战</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_thirteen/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_thirteen/</link>
         <pubDate>Mon, 17 Aug 2020 23:51:26 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_thirteen/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_thirteen/</guid>
         <description>第十三章：卢召伟-Flutter之商用项目实战</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -550,11 +550,11 @@
       
       <item>
         <title>第十二章：刘少魁-教大学毕业生转身入职开发工程师</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twelve/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_twelve/</link>
         <pubDate>Mon, 17 Aug 2020 23:51:08 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Tue, 18 Aug 2020 00:05:57 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_twelve/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_twelve/</guid>
         <description>第十二章：刘少魁-教大学毕业生转身入职开发工程师</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -574,11 +574,11 @@
       
       <item>
         <title>第十一章：刘英-大拿谈编程-让你的大牛之路畅通无阻</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_eleven/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_eleven/</link>
         <pubDate>Mon, 17 Aug 2020 23:50:41 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_eleven/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_eleven/</guid>
         <description>第十一章：刘英-大拿谈编程-让你的大牛之路畅通无阻</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -602,11 +602,11 @@
       
       <item>
         <title>周立伟-1小时玩转Python：学会制作疫情地图！</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_ten/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_ten/</link>
         <pubDate>Mon, 17 Aug 2020 23:50:30 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_ten/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_ten/</guid>
         <description>第十章：周立伟-1小时玩转Python：学会制作疫情地图！</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -630,11 +630,11 @@
       
       <item>
         <title>第九章：王闻-零基础小白也能动手学Python</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_nine/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_nine/</link>
         <pubDate>Mon, 17 Aug 2020 23:50:26 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_nine/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_nine/</guid>
         <description>第九章：王闻-零基础小白也能动手学Python</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -658,11 +658,11 @@
       
       <item>
         <title>第八章：汤小洋-1小时入门Vue.js框架</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_eight/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_eight/</link>
         <pubDate>Mon, 17 Aug 2020 23:50:20 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_eight/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_eight/</guid>
         <description>第八章：汤小洋-1小时入门Vue.js框架</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -686,11 +686,11 @@
       
       <item>
         <title>第七章：屈桢深-换个角度看世界：计算机视觉入门必看！</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_seven/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_seven/</link>
         <pubDate>Mon, 17 Aug 2020 23:50:10 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_seven/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_seven/</guid>
         <description>第七章：屈桢深-换个角度看世界：计算机视觉入门必看！ 我们要学什么? 环境搭建: Python + OpenCV 1.安装Anaconda 2.安装OpenCV 3.测试程序,</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -718,11 +718,11 @@
       
       <item>
         <title>第五章：李宁-手把手教你：如何实现病毒扩散仿真器？（Python版）</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_five/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_five/</link>
         <pubDate>Mon, 17 Aug 2020 23:50:03 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_five/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_five/</guid>
         <description>第五章：李宁-手把手教你：如何实现病毒扩散仿真器？（Python版） pyqt开发 正态分布 生成由中心到远逐渐稀少的模拟城市人员的点 Qt Designer 可视化编</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -746,11 +746,11 @@
       
       <item>
         <title>第四章：刘运强-疫情地图开发过程串讲</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_four/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_four/</link>
         <pubDate>Mon, 17 Aug 2020 23:49:54 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_four/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_four/</guid>
         <description>第四章：刘运强-疫情地图开发过程串讲 1.逻辑 数据来源（卫健委，腾讯，丁香园，百度等爬取） 两种实现（echarts,SVG） 髙并发（前后端分离</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -774,11 +774,11 @@
       
       <item>
         <title>第三章：胡淑敏-技术大牛教你如何高效准备java面试 --跳过</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_three/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_three/</link>
         <pubDate>Mon, 17 Aug 2020 23:49:44 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_three/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_three/</guid>
         <description>第三章：胡淑敏-技术大牛教你如何高效准备java面试 &amp;ndash;跳过</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -806,11 +806,11 @@
       
       <item>
         <title>袁明奇-目标检测实战-YOLOv3快速入门 --听不懂下一张</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_two/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_two/</link>
         <pubDate>Mon, 17 Aug 2020 23:48:09 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Fri, 21 Aug 2020 08:55:59 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_two/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_two/</guid>
         <description>第二章：袁明奇-目标检测实战-YOLOv3快速入门 &amp;ndash;听不懂下一章 总结 简单回顾了YOLOv3的算法架构 YOLOv3前向推理部分代码</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -834,11 +834,11 @@
       
       <item>
         <title>第一章：黄哲铿-疫情下，如何提高远程工作效率，让领导更信任你</title>
-        <link>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_one/</link>
+        <link>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_one/</link>
         <pubDate>Mon, 17 Aug 2020 23:08:53 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/csdn/gyzb/gyzb_one/</guid>
+        <guid>https://liqiangxo.top/zh/coder/csdn/gyzb/gyzb_one/</guid>
         <description>此内容是我买的csdn的视频课程的学习笔记 如有侵权，联系删除。 第一章：黄哲铿-疫情下，如何提高远程工作效率，让领导更信任你 提高效率-建立信任</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -862,11 +862,11 @@
       
       <item>
         <title>解决pip安装时速度慢的问题</title>
-        <link>https://www.liqiangxo.one/zh/coder/python/pip/</link>
+        <link>https://liqiangxo.top/zh/coder/python/pip/</link>
         <pubDate>Sun, 09 Aug 2020 22:50:12 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/python/pip/</guid>
+        <guid>https://liqiangxo.top/zh/coder/python/pip/</guid>
         <description>转载：https://blog.csdn.net/e15273/article/details/79649876 国内源： 新版ubuntu要求</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -890,11 +890,11 @@
       
       <item>
         <title>Gulp</title>
-        <link>https://www.liqiangxo.one/zh/coder/hilo/gulp/</link>
+        <link>https://liqiangxo.top/zh/coder/hilo/gulp/</link>
         <pubDate>Mon, 13 Jul 2020 13:32:05 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/hilo/gulp/</guid>
+        <guid>https://liqiangxo.top/zh/coder/hilo/gulp/</guid>
         <description>因为之前一直报错 1 AssertionError [ERR_ASSERTION]: Task function must be specified mac windows 都一样 报错这个错无赖 跑过来研究研究看看到底gulp 是什么鬼 原来gulp是一个node自动构建工具 https://v3.gulpjs.com.cn/docs/getting-started/ 根据入</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -914,11 +914,11 @@
       
       <item>
         <title>Hugo</title>
-        <link>https://www.liqiangxo.one/zh/coder/hugo/</link>
+        <link>https://liqiangxo.top/zh/coder/hugo/</link>
         <pubDate>Tue, 07 Jul 2020 00:09:24 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Wed, 19 Aug 2020 19:29:31 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/hugo/</guid>
+        <guid>https://liqiangxo.top/zh/coder/hugo/</guid>
         <description>1.常用hugo命令 新建一个文件 1 hugo new coder/hilo.md 默认http://localhost:1313 如果开了多个端口会随机一个 1 hugo server --本地运行 发布 1 hugo 2.hugo</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -938,11 +938,11 @@
       
       <item>
         <title>Mygit</title>
-        <link>https://www.liqiangxo.one/zh/coder/mygit/</link>
+        <link>https://liqiangxo.top/zh/coder/mygit/</link>
         <pubDate>Mon, 06 Jul 2020 23:41:21 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Thu, 30 Jul 2020 19:18:07 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/mygit/</guid>
+        <guid>https://liqiangxo.top/zh/coder/mygit/</guid>
         <description>本文用于记录自己git使用过程中的问题 1.windows 下面拉取不下来子模块 需要勾上 2.git更新慢 解决方法： 在网站 https://www.ipaddress.com/ 分别搜索找出对应的ip： github.global.ssl.fastly.net github.com 在host</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -962,11 +962,11 @@
       
       <item>
         <title>Hilo</title>
-        <link>https://www.liqiangxo.one/zh/coder/hilo/</link>
+        <link>https://liqiangxo.top/zh/coder/hilo/</link>
         <pubDate>Mon, 06 Jul 2020 23:34:50 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Thu, 30 Jul 2020 19:18:07 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/hilo/</guid>
+        <guid>https://liqiangxo.top/zh/coder/hilo/</guid>
         <description>本文用于记录在hilo学习过程 1.根据hilo文档搭建环境 2.遇到没有npm 就去百度怎么npm 然后装node等等 3.有了npm 终于开始了np</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -986,11 +986,11 @@
       
       <item>
         <title>Coder test</title>
-        <link>https://www.liqiangxo.one/zh/coder/rich-text/</link>
+        <link>https://liqiangxo.top/zh/coder/rich-text/</link>
         <pubDate>Sun, 28 Jun 2020 16:32:22 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Thu, 30 Jul 2020 19:18:07 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/rich-text/</guid>
+        <guid>https://liqiangxo.top/zh/coder/rich-text/</guid>
         <description>首先看接入流程帮助文档 下载sdk 下载demo 更具api直接把自己需要的从demo里面拿过来 腾讯语音sdk的接入 环境:cocos2d-lua 3.13,mac10.11.6,xcode8.2.1,</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -1010,11 +1010,11 @@
       
       <item>
         <title>命令行常见问题记录</title>
-        <link>https://www.liqiangxo.one/zh/coder/terminal/</link>
+        <link>https://liqiangxo.top/zh/coder/terminal/</link>
         <pubDate>Thu, 25 Jun 2020 17:28:15 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Thu, 30 Jul 2020 19:18:07 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/terminal/</guid>
+        <guid>https://liqiangxo.top/zh/coder/terminal/</guid>
         <description>#命令行常见问题记录（第一次用&amp;gt;markdown） ###1. 命令行中文乱码问题 缩进一 解决问题：直接在命令行输入如下内容也行能解决问题 1 2 &amp;gt;chcp 65001 Active</description>
         
         <dc:creator>liqiang</dc:creator>
@@ -1038,11 +1038,11 @@
       
       <item>
         <title>文件软连接和硬链接 link</title>
-        <link>https://www.liqiangxo.one/zh/coder/link/</link>
+        <link>https://liqiangxo.top/zh/coder/link/</link>
         <pubDate>Thu, 25 Jun 2020 17:28:15 +0800</pubDate>
         <author>liqiangxoxo@gmail.com (liqiang)</author>
         <atom:modified>Fri, 04 Sep 2020 20:12:40 +0800</atom:modified>
-        <guid>https://www.liqiangxo.one/zh/coder/link/</guid>
+        <guid>https://liqiangxo.top/zh/coder/link/</guid>
         <description>今天遇到一个问题，就是为了不影响线上玩家，把我们的 gm 目录分成了两个 svn，线上 web 目录和 gmweb 目录。 但是存在一个问题，就是线上和后台可能遇到修改和</description>
         
         <dc:creator>liqiang</dc:creator>
