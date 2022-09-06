@@ -2,13 +2,13 @@
 header:
   - type: typewriter
     methods:
-      - typeString: Hello world!
+      - typeString: choose freedom
       - pauseFor: 2500
       - deleteAll: true
-      - typeString: Strings can be removed
+      - typeString: Do what the fuck you want to
       - pauseFor: 2500
       - deleteChars: 7
-      - typeString: <strong>altered!</strong>
+      - typeString: <strong>Ha!</strong>
       - pauseFor: 2500
     options:
       loop: true

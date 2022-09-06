@@ -2,13 +2,13 @@
 header:
   - type: typewriter
     methods:
-      - typeString: Hello world!
+      - typeString: 선택의 자유
       - pauseFor: 2500
       - deleteAll: true
-      - typeString: Strings can be removed
+      - typeString: 네 제기랄, 하고 싶은 대로 해라
       - pauseFor: 2500
       - deleteChars: 7
-      - typeString: <strong>altered!</strong>
+      - typeString: <strong>哈!</strong>
       - pauseFor: 2500
     options:
       loop: true
