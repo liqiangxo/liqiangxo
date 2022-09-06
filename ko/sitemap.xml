@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://liqiangxo.top/ko/archive/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
@@ -20,9 +19,7 @@
                 hreflang="ko"
                 href="https://liqiangxo.top/ko/archive/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://liqiangxo.top/ko/about/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
@@ -40,9 +37,7 @@
                 hreflang="ko"
                 href="https://liqiangxo.top/ko/about/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://liqiangxo.top/ko/gallery/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
@@ -60,9 +55,7 @@
                 hreflang="ko"
                 href="https://liqiangxo.top/ko/gallery/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://liqiangxo.top/ko/gallery/photo/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
@@ -80,9 +73,7 @@
                 hreflang="ko"
                 href="https://liqiangxo.top/ko/gallery/photo/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://liqiangxo.top/ko/gallery/cartoon/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
@@ -100,9 +91,7 @@
                 hreflang="ko"
                 href="https://liqiangxo.top/ko/gallery/cartoon/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://liqiangxo.top/ko/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
@@ -120,9 +109,7 @@
                 hreflang="ko"
                 href="https://liqiangxo.top/ko/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://liqiangxo.top/ko/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -139,9 +126,7 @@
                 hreflang="ko"
                 href="https://liqiangxo.top/ko/categories/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://liqiangxo.top/ko/tags/index/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
@@ -154,9 +139,7 @@
                 hreflang="ko"
                 href="https://liqiangxo.top/ko/tags/index/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://liqiangxo.top/ko/posts/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
@@ -169,9 +152,7 @@
                 hreflang="ko"
                 href="https://liqiangxo.top/ko/posts/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://liqiangxo.top/ko/series/</loc>
     <xhtml:link
                 rel="alternate"
@@ -188,9 +169,7 @@
                 hreflang="ko"
                 href="https://liqiangxo.top/ko/series/"
                 />
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://liqiangxo.top/ko/tags/</loc>
     <lastmod>2020-07-30T19:07:03+08:00</lastmod>
     <xhtml:link
@@ -209,5 +188,4 @@
                 href="https://liqiangxo.top/ko/tags/"
                 />
   </url>
-  
 </urlset>
