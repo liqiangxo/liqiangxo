@@ -6,6 +6,37 @@ description: About Page
 ---
 
 # 关于工作
+---
+## 2022-4 广州见微科技
+
+### 工作内容
+```
+creator 前端开发
+对creator的有一定的研究
+对creator插件有一些学习研究
+通过js项目转ts项目的过程，对JavaScript，typescript有一些研究
+```
+### [我的npm库](https://www.npmjs.com/settings/liqiangxo/packages)
+1. https://www.npmjs.com/package/calculator-by-str  自动计算字符串公式的插件
+
+### 其他
+1. python
+   1. 用python写一些自动化工具，帮助项目构建自动化工具
+   2. 用python写一些爬虫，爬取自己需要的数据，比如
+      1. 爬取51job数据（找工作还是很有用的，需要用到登录，自动输入用户名和密码，获取session等技术），
+      2. 爬取懂车的数据（因为喜欢车车，为买车做点准备，自己的数据自己做主）
+      3. 爬取安居客数据（前几年买房，边学边写的代码）
+      4. 
+   3. 用python写一些数据处理工具，可以帮助策划处理大量数据，分析出数据，可以用与后续的决策。
+      1. 用python处理Excel数据
+      2. 用python处理mongo数据
+   4. 用python抠图 主要是用别人的api
+   5. 用python链接远程机器
+   6. 用python生成词云
+   7. 学习python推荐书籍
+      1. [自学是门手艺](http://lixiaolai.com/#/the-craft-of-selfteaching/)
+         1. 作者李笑来，他的其他书也挺好看的，但是没看基本，有空还是要继续看看
+
 
 ---
 ## 2017-12 上海参宿科技
@@ -19,6 +50,16 @@ ios
 android
 --全端开发  挂机游戏
 ```
+
+### 其他
+1. mongo 和 js或python
+   1. 通过js或者python脚本，写数据分析工具
+   2. 通过脚本处理错误数据，修复线上bug
+2. 用php + js + mongo做后台网站
+   1. 理解服务器 与 后台 与游戏客户端的逻辑
+   2. 实现后台实时管理游戏内的各个开关，实时修复线上bug
+   3. 实时显示全服游戏数据，用数据各种公式分析数据，分析充值数据，支付数据，已经使用各种分析函数，留存，次留，等各种付费分析。
+   4. 恕我直言，想得到的想不到的都能实现。
 
 
 #### [挂机吧主公](https://tieba.baidu.com/f?kw=%B9%D2%BB%FA%B0%C9%D6%F7%B9%AB&fr=ala0&tpl=5)
@@ -88,3 +129,7 @@ cocos2dx开发单机小游戏
 
 | ![1](https://newsimg.5054399.com/uploads/userup/1602/021A1302240.jpg) | ![1](https://newsimg.5054399.com/uploads/userup/1602/021A04Db2.jpg) | ![1](https://newsimg.5054399.com/uploads/userup/1602/021A21GQ5.jpg) |
 |:-|:-|:-|
+
+
+# 关于生活
+    就快到三十而立的年龄，这三十载。
